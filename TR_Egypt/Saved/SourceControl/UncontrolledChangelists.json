@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Learner/Documents/Unreal Projects/TR_Egypt/Content/Tomb_Raider_egypt.umap",
+				"C:/Users/Learner/Documents/Unreal Projects/TR_Egypt/Content/_GENERATED/Learner/Cone_17F3BE96.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/Tomb_Raider_egypt.umap",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Stairs_AC217496.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Box_8D1EE593.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Box_EA04AB53.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/CubeGridToolOutput_64207BDE.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/CubeGridToolOutput_E272749D.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Stairs_B412F162.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Cylinder_8C081495.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Stairs_9320C194.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Stairs_F1795D4C.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Stairs_AF5F8ED6.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Cylinder_A158A241.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/CubeGridToolOutput_BCCCE90E.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Box_E194E6DE.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Box_9DCD9DA1.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Box_01B98775.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Box_3D2B999F.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Box_61A059B4.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/Box_790D6AC5.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/_GENERATED/Learner/CubeGridToolOutput_D5C466BF.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/Sand.uasset",
+				"C:/Users/Learner/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/Sand_Texture.uasset"
+			]
+		}
+	]
+}
