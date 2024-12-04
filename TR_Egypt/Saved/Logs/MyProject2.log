@@ -1380,3 +1380,298 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.04-14.20.46:083][ 31]LogEditorActor: Deleted Actor: StaticMeshActor
 [2024.12.04-14.20.46:090][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
 [2024.12.04-14.20.46:092][ 31]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.12.04-14.22.26:003][383]LogDerivedDataCache: C:/Users/Learner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.04-14.23.14:501][331]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.04-14.23.14:506][331]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.04-14.23.14:513][332]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.04-14.23.39:778][114]LogContentBrowser: Attempting asset rename: NewFolder -> Custom_texture
+[2024.12.04-14.23.39:779][114]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.04-14.23.52:460][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.04-14.23.52:460][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Textures/Sand] ([1] browsable assets)...
+[2024.12.04-14.23.52:460][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/Sand]
+[2024.12.04-14.23.52:461][273]LogSavePackage: Moving output files for package: /Game/StarterContent/Textures/Sand
+[2024.12.04-14.23.52:461][273]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Sand7ECF870344C844AA0D4C069B67A5B3FD.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/StarterContent/Textures/Sand.uasset'
+[2024.12.04-14.23.52:463][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Custom_texture/Sand_Texture] ([1] browsable assets)...
+[2024.12.04-14.23.52:463][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Custom_texture/Sand_Texture]
+[2024.12.04-14.23.52:464][273]LogSavePackage: Moving output files for package: /Game/StarterContent/Custom_texture/Sand_Texture
+[2024.12.04-14.23.52:464][273]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Sand_TextureC5AD1BA540045E055149F3A4BAFCD471.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/StarterContent/Custom_texture/Sand_Texture.uasset'
+[2024.12.04-14.23.52:465][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.093 ms
+[2024.12.04-14.23.52:499][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.04-14.23.52:506][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.04-14.23.52:512][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.04-14.23.52:527][273]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.04-14.23.52:528][273]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.04-14.23.52:528][273]LogContentValidation: Enabled validators:
+[2024.12.04-14.23.52:528][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.04-14.23.52:528][273]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.04-14.23.52:528][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.04-14.23.52:528][273]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.04-14.23.52:528][273]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.04-14.23.52:528][273]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.04-14.23.52:528][273]AssetCheck: /Game/StarterContent/Textures/Sand Validating asset
+[2024.12.04-14.23.52:528][273]AssetCheck: /Game/StarterContent/Custom_texture/Sand_Texture Validating asset
+[2024.12.04-14.23.55:097][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.04-14.23.55:097][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Custom_texture/Sand] ([1] browsable assets)...
+[2024.12.04-14.23.55:097][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Custom_texture/Sand]
+[2024.12.04-14.23.55:099][539]LogSavePackage: Moving output files for package: /Game/StarterContent/Custom_texture/Sand
+[2024.12.04-14.23.55:099][539]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Sand57CCCE074326922CBBA2A882A02B56A0.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/StarterContent/Custom_texture/Sand.uasset'
+[2024.12.04-14.23.55:100][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Textures/Sand] ([1] browsable assets)...
+[2024.12.04-14.23.55:100][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/Sand]
+[2024.12.04-14.23.55:100][539]LogSavePackage: Moving output files for package: /Game/StarterContent/Textures/Sand
+[2024.12.04-14.23.55:101][539]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Sand2D727E244E59A3DF0339D79DE839F399.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/StarterContent/Textures/Sand.uasset'
+[2024.12.04-14.23.55:102][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.649 ms (total: 7.743 ms)
+[2024.12.04-14.23.55:116][539]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.04-14.23.55:116][539]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.04-14.23.55:116][539]LogContentValidation: Enabled validators:
+[2024.12.04-14.23.55:116][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.04-14.23.55:116][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.04-14.23.55:116][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.04-14.23.55:116][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.04-14.23.55:116][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.04-14.23.55:116][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.04-14.23.55:116][539]AssetCheck: /Game/StarterContent/Custom_texture/Sand Validating asset
+[2024.12.04-14.23.55:116][539]AssetCheck: /Game/StarterContent/Textures/Sand Validating asset
+[2024.12.04-14.24.02:374][902]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.04-14.24.02:390][902]LogInterchangeEngine: [Pending] Importing
+[2024.12.04-14.24.02:390][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Learner/Downloads/Custom_Sandstone.jpg]
+[2024.12.04-14.24.03:063][904]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.04-14.24.03:063][904]LogInterchangeImport: JPEG file [C:/Users/Learner/Downloads/Custom_Sandstone.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2024.12.04-14.24.03:377][905]LogTexture: Warning: Texture2D /Game/StarterContent/Custom_texture/Custom_Sandstone.Custom_Sandstone contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2024.12.04-14.24.03:377][905]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Learner/Downloads/Custom_Sandstone.jpg]
+[2024.12.04-14.24.03:378][905]Interchange: Error: [C:/Users/Learner/Downloads/Custom_Sandstone.jpg : '', InterchangeJPGTranslator] Failed to decode JPEG.
+[2024.12.04-14.24.03:378][905]Interchange: Error: [C:/Users/Learner/Downloads/Custom_Sandstone.jpg : '', Texture2D] Unable to retrieve the payload from the source file.
+[2024.12.04-14.24.03:391][905]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2024.12.04-14.24.03:391][905]LogInterchangeEngine: Error: [Failure] Import Failed
+[2024.12.04-14.24.17:157][994]LogSlate: Window 'Message Log' being destroyed
+[2024.12.04-14.24.17:160][994]LogSlate: Window 'Message Log' being destroyed
+[2024.12.04-14.25.50:760][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 321.052856
+[2024.12.04-14.25.51:760][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.04-14.25.51:760][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 321.719421, Update Interval: 338.828705
+[2024.12.04-14.26.48:964][316]LogEditorFactories: Performing atomic reimport of [C:/Users/Learner/Downloads/Custom_Sandstone.jpg]
+[2024.12.04-14.26.48:967][316]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Learner/Downloads/Custom_Sandstone.jpg)
+[2024.12.04-14.26.48:967][316]LogTexture: Warning: Texture2D /Game/StarterContent/Custom_texture/Custom_Sandstone.Custom_Sandstone contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2024.12.04-14.26.48:977][316]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.04-14.26.48:978][316]LogEditorFactories: -- imported successfully
+[2024.12.04-14.26.48:988][316]LogTexture: Display: Building textures: /Game/StarterContent/Custom_texture/Custom_Sandstone.Custom_Sandstone (TFO_AutoDXT, 800x600 x1x1x1) (Required Memory Estimate: 56.461426 MB), EncodeSpeed: Fast
+[2024.12.04-14.26.56:684][384]LogEditorFactories: Performing atomic reimport of [C:/Users/Learner/Downloads/Custom_Sandstone.jpg]
+[2024.12.04-14.26.56:686][384]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Learner/Downloads/Custom_Sandstone.jpg)
+[2024.12.04-14.26.56:697][384]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.04-14.26.56:699][384]LogEditorFactories: -- imported successfully
+[2024.12.04-14.26.59:459][442]LogActorFactory: Actor Factory attempting to spawn ImgMediaSource /Engine/Transient.ImgMediaSource_0
+[2024.12.04-14.26.59:459][442]LogActorFactory: Actor Factory attempting to spawn ImgMediaSource /Engine/Transient.ImgMediaSource_0
+[2024.12.04-14.26.59:460][442]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.04-14.26.59:463][442]LogActorFactory: Actor Factory spawned ImgMediaSource /Engine/Transient.ImgMediaSource_0 as actor: MediaPlate /Game/Tomb_Raider_egypt.Tomb_Raider_egypt:PersistentLevel.MediaPlate_0
+[2024.12.04-14.26.59:463][442]LogActorFactory: Actor Factory spawned ImgMediaSource /Engine/Transient.ImgMediaSource_0 as actor: MediaPlate /Game/Tomb_Raider_egypt.Tomb_Raider_egypt:PersistentLevel.MediaPlate_0
+[2024.12.04-14.27.07:938][ 10]Cmd: DELETE
+[2024.12.04-14.27.07:938][ 10]Cmd: ACTOR DELETE
+[2024.12.04-14.27.07:939][ 10]LogEditorActor: Deleted Actor: MediaPlate
+[2024.12.04-14.27.07:959][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.04-14.27.07:960][ 10]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.12.04-14.29.33:143][545]LogShaderCompilers: Display: ================================================
+[2024.12.04-14.29.33:143][545]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.04-14.29.33:143][545]LogShaderCompilers: Display: Total job queries 199, among them cache hits 37 (18.59%), DDC hits 152 (76.38%), Duplicates 3 (1.51%)
+[2024.12.04-14.29.33:143][545]LogShaderCompilers: Display: Tracking 159 distinct input hashes that result in 141 distinct outputs (88.68%)
+[2024.12.04-14.29.33:143][545]LogShaderCompilers: Display: RAM used: 116.17 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.12.04-14.29.33:143][545]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.04-14.29.33:143][545]LogShaderCompilers: Display: Shaders Compiled: 7
+[2024.12.04-14.29.33:143][545]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 1.25 s
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 1.29
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Shader code size: average 6.464 KiB, min 2.777 KiB, max 10.969 KiB
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.30 s
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Average processing rate: 5.38 jobs/sec
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Total thread time: 2.952 s
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Total thread preprocess time: 2.389 s
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Percentage time preprocessing: 80.92%
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Effective parallelization: 2.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.78% of total time (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                                  FVelocityPS - 13.53% of total time (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                                  FHitProxyPS - 13.13% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.70% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display:                                                  FHitProxyVS - 11.83% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: === Material stats ===
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Materials Translated:    134
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Material Translation Only: 0.03 s (56%)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: Material Cache Hits: 37 (28%)
+[2024.12.04-14.29.33:144][545]LogShaderCompilers: Display: ================================================
+[2024.12.04-14.30.42:189][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.04-14.30.42:201][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Tomb_Raider_egypt_Auto1
+[2024.12.04-14.30.42:201][752]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Tomb_Raider_egypt_Auto130802C3C4031A787AE3761A52B8C72F8.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/Tomb_Raider_egypt_Auto1.umap'
+[2024.12.04-14.30.42:203][752]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Tomb_Raider_egypt' took 0.019
+[2024.12.04-14.30.42:203][752]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.12.04-14.30.42:203][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Custom_texture/Custom_Sandstone_Auto1
+[2024.12.04-14.30.42:203][752]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Custom_Sandstone_Auto1BA47E2C748288188AE49BC83553E746E.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/StarterContent/Custom_texture/Custom_Sandstone_Auto1.uasset'
+[2024.12.04-14.30.42:204][752]LogFileHelpers: Auto-saving content packages took 0.001
+[2024.12.04-14.31.33:827][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 664.119507
+[2024.12.04-14.31.34:826][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.04-14.31.34:826][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 664.786255, Update Interval: 357.782532
+[2024.12.04-14.37.38:196][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1028.489014
+[2024.12.04-14.37.39:196][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.04-14.37.39:196][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1029.155762, Update Interval: 354.387634
+[2024.12.04-14.43.47:418][213]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1397.709106
+[2024.12.04-14.43.48:417][216]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.04-14.43.48:418][216]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1398.375854, Update Interval: 349.286163
+[2024.12.04-14.49.58:399][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1768.690063
+[2024.12.04-14.49.59:400][371]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.04-14.49.59:400][371]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1769.356567, Update Interval: 332.952667
+[2024.12.04-14.51.03:957][564]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-14.51.03:975][564]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-14.51.03:994][564]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-14.51.04:014][564]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-14.51.04:033][564]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-14.51.04:052][564]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-14.51.04:069][564]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2024.12.04-14.51.04:069][564]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6916
+[2024.12.04-14.56.31:188][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2161.481689
+[2024.12.04-14.56.32:193][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.04-14.56.32:193][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2162.152588, Update Interval: 337.092804
+[2024.12.04-15.01.29:710][425]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-304ms], ThreadID=6916
+[2024.12.04-15.18.16:500][425]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.12.04-15.18.16:517][425]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1006770ms], ThreadID=6916
+[2024.12.04-15.18.16:517][425]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.12.04-15.18.17:736][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-15.18.17:737][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-15.18.17:768][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-15.18.17:768][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-15.18.17:800][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-15.18.17:816][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.12.04-15.18.17:834][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG ULTRAGEAR (NVIDIA High Definition Audio), InstanceID=1
+[2024.12.04-15.18.18:218][426]LogHttp: Warning: 000008E3577C3800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.04-15.18.18:218][426]LogHttp: Warning: 000008E3577C3800: libcurl info message cache 0 (Too old connection (1067 seconds idle), disconnect it)
+[2024.12.04-15.18.18:218][426]LogHttp: Warning: 000008E3577C3800: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2024.12.04-15.18.18:218][426]LogHttp: Warning: 000008E3577C3800: libcurl info message cache 2 (Closing connection)
+[2024.12.04-15.18.18:218][426]LogHttp: Warning: 000008E3577C3800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.12.04-15.18.18:218][426]LogHttp: Warning: 000008E3577C3800: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.04-15.18.18:218][426]LogHttp: Warning: 000008E3577C3800: libcurl info message cache 5 (Closing connection)
+[2024.12.04-15.18.18:218][426]LogEOSSDK: Warning: LogHttp: 000008E31E6F1800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B3BB9A2EA-42BE-A41C-1CE7-B2A8014855AC%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.04-15.18.18:218][426]LogEOSSDK: Warning: LogHttp: 000008E31E6F1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.04-15.18.18:218][426]LogEOSSDK: Warning: LogHttp: 000008E31E6F1800: libcurl info message cache 0 (Too old connection (1034 seconds idle), disconnect it)
+[2024.12.04-15.18.18:218][426]LogEOSSDK: Warning: LogHttp: 000008E31E6F1800: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2024.12.04-15.18.18:218][426]LogEOSSDK: Warning: LogHttp: 000008E31E6F1800: libcurl info message cache 2 (Closing connection)
+[2024.12.04-15.18.18:218][426]LogEOSSDK: Warning: LogHttp: 000008E31E6F1800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.12.04-15.18.18:218][427]LogEOSSDK: Warning: LogHttp: 000008E31E6F1800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2024.12.04-15.18.18:218][427]LogEOSSDK: Warning: LogHttp: 000008E31E6F1800: libcurl info message cache 5 (Closing connection)
+[2024.12.04-15.18.18:218][427]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B3BB9A2EA-42BE-A41C-1CE7-B2A8014855AC%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2024.12.04-15.18.18:554][428]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2024.12.04-15.18.18:556][428]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{258910fd-85e7-48e8-9b55-8e23cc0853e1}, Name=LG ULTRAGEAR (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=83.94
+[2024.12.04-15.18.18:556][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.04-15.18.18:558][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F9600: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F9600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F9600: libcurl info message cache 1 (Closing connection)
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=505BE4E24F51908B81108BA07183488A, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: libcurl info message cache 0 (Found bundle for host: 0x8e343880d20 [serially])
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: libcurl info message cache 2 (Closing connection)
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2024.12.04-15.18.18:561][428]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=505BE4E24F51908B81108BA07183488A
+[2024.12.04-15.18.18:890][429]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 614...cd8
+[2024.12.04-15.18.19:889][432]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2024.12.04-15.18.19:889][432]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=505BE4E24F51908B81108BA07183488A
+[2024.12.04-15.18.20:223][433]LogEOSSDK: Warning: LogHttp: 000008E31E6F9600: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.04-15.18.20:223][433]LogEOSSDK: Warning: LogHttp: 000008E31E6F9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.04-15.18.20:223][433]LogEOSSDK: Warning: LogHttp: 000008E31E6F9600: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2024.12.04-15.18.20:223][433]LogEOSSDK: Warning: LogHttp: 000008E31E6F9600: libcurl info message cache 3 (Closing connection)
+[2024.12.04-15.18.20:223][433]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=505BE4E24F51908B81108BA07183488A, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.04-15.18.20:223][433]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.04-15.18.20:223][434]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: libcurl info message cache 3 (Found bundle for host: 0x8e343880390 [serially])
+[2024.12.04-15.18.20:223][434]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2024.12.04-15.18.20:223][434]LogEOSSDK: Warning: LogHttp: 000008E31E6F7800: libcurl info message cache 5 (Closing connection)
+[2024.12.04-15.18.20:223][434]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2024.12.04-15.18.20:223][434]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=505BE4E24F51908B81108BA07183488A
+[2024.12.04-15.18.20:556][434]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 614...cd8
+[2024.12.04-15.18.21:557][437]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2024.12.04-15.18.21:557][437]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=505BE4E24F51908B81108BA07183488A
+[2024.12.04-15.18.21:890][438]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2024.12.04-15.18.21:890][438]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=505BE4E24F51908B81108BA07183488A
+[2024.12.04-15.19.14:519][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3524.943604
+[2024.12.04-15.19.15:519][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.04-15.19.15:519][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3525.610352, Update Interval: 338.925751
+[2024.12.04-15.24.16:730][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.04-15.24.17:846][584]LogSlate: Window 'Save Content' being destroyed
+[2024.12.04-15.24.17:854][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.04-15.24.17:894][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.04-15.24.17:918][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.04-15.24.17:928][584]LogSavePackage: Moving output files for package: /Game/Tomb_Raider_egypt
+[2024.12.04-15.24.17:929][584]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Tomb_Raider_egypt04100D074791347D5A86DCB8181EFA5B.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/Tomb_Raider_egypt.umap'
+[2024.12.04-15.24.17:936][584]LogFileHelpers: Saving map 'Tomb_Raider_egypt' took 0.040
+[2024.12.04-15.24.17:942][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.211 ms (total: 95.954 ms)
+[2024.12.04-15.24.17:972][584]LogStall: Shutdown...
+[2024.12.04-15.24.17:972][584]LogStall: Shutdown complete.
+[2024.12.04-15.24.17:998][584]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2024.12.04-15.24.18:049][584]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.04-15.24.18:049][584]LogContentValidation: Enabled validators:
+[2024.12.04-15.24.18:049][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.04-15.24.18:049][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.04-15.24.18:049][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.04-15.24.18:049][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.04-15.24.18:049][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.04-15.24.18:049][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.04-15.24.18:049][584]AssetCheck: /Game/Tomb_Raider_egypt Validating asset
+[2024.12.04-15.24.18:050][584]Cmd: QUIT_EDITOR
+[2024.12.04-15.24.18:050][584]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.04-15.24.18:053][585]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.04-15.24.18:054][585]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.04-15.24.18:054][585]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.04-15.24.18:055][585]LogWorld: UWorld::CleanupWorld for Tomb_Raider_egypt, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-15.24.18:055][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-15.24.18:061][585]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.04-15.24.18:061][585]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.04-15.24.18:063][585]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-15.24.18:063][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-15.24.18:063][585]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-15.24.18:063][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-15.24.18:064][585]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.04-15.24.18:065][585]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.04-15.24.18:065][585]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.04-15.24.18:066][585]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.04-15.24.18:066][585]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.04-15.24.18:066][585]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.04-15.24.18:066][585]LogAudio: Display: Audio Device unregistered from world 'Tomb_Raider_egypt'.
+[2024.12.04-15.24.18:066][585]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.04-15.24.18:067][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.04-15.24.18:069][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.04-15.24.18:075][585]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.04-15.24.18:076][585]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.04-15.24.18:077][585]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.12.04-15.24.18:078][585]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.04-15.24.18:079][585]LogExit: Preparing to exit.
+[2024.12.04-15.24.18:095][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.04-15.24.18:804][585]LogEditorDataStorage: Deinitializing
+[2024.12.04-15.24.18:890][585]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.04-15.24.18:903][585]LogExit: Editor shut down
+[2024.12.04-15.24.18:904][585]LogExit: Transaction tracking system shut down
+[2024.12.04-15.24.18:969][585]LogExit: Object subsystem successfully closed.
+[2024.12.04-15.24.19:083][585]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.04-15.24.20:016][585]LogMemoryProfiler: Shutdown
+[2024.12.04-15.24.20:016][585]LogNetworkingProfiler: Shutdown
+[2024.12.04-15.24.20:016][585]LoadingProfiler: Shutdown
+[2024.12.04-15.24.20:016][585]LogTimingProfiler: Shutdown
+[2024.12.04-15.24.20:306][585]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.04-15.24.20:339][585]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.04-15.24.20:339][585]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8B3B5464-4140-9D3E-8919-33B49B2BB5AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=d574d1064ae8f8a1a1adfab55ced4064%7C8867d8bbc9784284948661bb636eddc9%7Cd0e1b428-16c3-4716-b809-289906324a8c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.04-15.24.21:005][585]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.04-15.24.21:005][585]RenderDocPlugin: plugin has been unloaded.
+[2024.12.04-15.24.21:013][585]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.04-15.24.21:013][585]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.04-15.24.21:015][585]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.04-15.24.21:015][585]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.04-15.24.21:015][585]LogPakFile: Destroying PakPlatformFile
+[2024.12.04-15.24.21:338][585]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.04-15.24.21:364][585]LogExit: Exiting.
+[2024.12.04-15.24.21:383][585]Log file closed, 12/04/24 15:24:21
