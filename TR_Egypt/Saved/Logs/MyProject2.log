@@ -1428,3 +1428,269 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.09-09.27.19:990][612]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.12.09-09.27.19:990][612]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.035ms to complete.
 [2024.12.09-09.27.20:028][612]LogAutomationController: Ignoring very large delta of 7.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.09-09.28.46:106][758]LogDerivedDataCache: C:/Users/Learner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.09-09.28.52:879][928]LogActorFactory: Actor Factory attempting to spawn ImgMediaSource /Engine/Transient.ImgMediaSource_0
+[2024.12.09-09.28.52:879][928]LogActorFactory: Actor Factory attempting to spawn ImgMediaSource /Engine/Transient.ImgMediaSource_0
+[2024.12.09-09.28.52:880][928]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-09.28.52:893][928]LogActorFactory: Actor Factory spawned ImgMediaSource /Engine/Transient.ImgMediaSource_0 as actor: MediaPlate /Game/Tomb_Raider_egypt.Tomb_Raider_egypt:PersistentLevel.MediaPlate_0
+[2024.12.09-09.28.52:893][928]LogActorFactory: Actor Factory spawned ImgMediaSource /Engine/Transient.ImgMediaSource_0 as actor: MediaPlate /Game/Tomb_Raider_egypt.Tomb_Raider_egypt:PersistentLevel.MediaPlate_0
+[2024.12.09-09.28.54:471][  3]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2024.12.09-09.28.57:304][132]Cmd: DELETE
+[2024.12.09-09.28.57:304][132]Cmd: ACTOR DELETE
+[2024.12.09-09.28.57:309][132]LogEditorActor: Deleted Actor: MediaPlate
+[2024.12.09-09.28.57:317][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.09-09.28.57:320][132]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.09-09.29.07:889][737]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-09.29.07:930][737]LogInterchangeEngine: [Pending] Importing
+[2024.12.09-09.29.07:930][737]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Learner/Downloads/sandstone_texture.jpg]
+[2024.12.09-09.29.08:574][739]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-09.29.08:575][739]LogInterchangeImport: JPEG file [C:/Users/Learner/Downloads/sandstone_texture.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2024.12.09-09.29.08:899][741]LogTexture: Display: Building textures: /Game/StarterContent/Custom_texture/sandstone_texture.sandstone_texture (BGRA8, 1250x764 x1x1x1) (Required Memory Estimate: 33.787315 MB), EncodeSpeed: Fast
+[2024.12.09-09.29.09:242][741]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Learner/Downloads/sandstone_texture.jpg]
+[2024.12.09-09.29.09:245][741]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2024.12.09-09.29.09:245][741]LogInterchangeEngine: [Success] Import Done
+[2024.12.09-09.29.14:937][971]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.12.09-09.29.14:940][971]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.12.09-09.29.14:947][972]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.12.09-09.29.19:758][247]LogContentBrowser: Attempting asset rename: NewMaterial -> Sandstone
+[2024.12.09-09.29.19:760][247]LogContentBrowser: End creating deferred item NewMaterial
+[2024.12.09-09.29.25:702][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.12.09-09.29.25:712][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.12.09-09.29.25:718][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.12.09-09.29.25:730][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.12.09-09.29.25:736][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.12.09-09.29.25:742][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.12.09-09.29.28:115][975]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Custom_texture/Sandstone.Sandstone
+[2024.12.09-09.29.28:120][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2024.12.09-09.29.28:120][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2024.12.09-09.29.28:120][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2024.12.09-09.29.28:120][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2024.12.09-09.29.28:120][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2024.12.09-09.29.28:120][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2024.12.09-09.29.28:120][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2024.12.09-09.29.28:120][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2024.12.09-09.29.28:120][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2024.12.09-09.29.28:120][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2024.12.09-09.29.28:120][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2024.12.09-09.29.28:120][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2024.12.09-09.29.28:120][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2024.12.09-09.29.28:120][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2024.12.09-09.29.28:121][975]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2024.12.09-09.29.28:121][975]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2024.12.09-09.29.28:133][975]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.12.09-09.29.28:139][975]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.09-09.29.28:152][975]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2024.12.09-09.29.28:159][975]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2024.12.09-09.29.28:183][975]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2024.12.09-09.29.28:184][975]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2024.12.09-09.29.28:520][975]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.09-09.29.28:520][975]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.09-09.29.28:520][975]MaterialEditorStats: Shader Count: 0
+[2024.12.09-09.29.28:520][975]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.09-09.29.28:530][975]LogSlate: Took 0.005743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.09-09.29.28:631][977]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2024.12.09-09.29.28:631][977]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.09-09.29.28:631][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.09-09.29.28:631][977]MaterialEditorStats: Shader Count: 3
+[2024.12.09-09.29.28:631][977]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.09-09.29.29:527][ 23]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.12.09-09.29.29:527][ 23]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2024.12.09-09.29.29:527][ 23]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.09-09.29.29:527][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.09-09.29.29:527][ 23]MaterialEditorStats: Shader Count: 4
+[2024.12.09-09.29.29:527][ 23]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.09-09.29.34:322][271]LogSlate: Window 'Sandstone' being destroyed
+[2024.12.09-09.29.43:415][862]LogContentBrowser: Deferred new asset file creation: sandstone_texture_Mat
+[2024.12.09-09.29.43:422][862]LogContentBrowser: Creating deferred item: sandstone_texture_Mat
+[2024.12.09-09.29.43:429][863]LogContentBrowser: Renaming the item being created (Deferred Item: sandstone_texture_Mat).
+[2024.12.09-09.29.50:923][453]LogContentBrowser: Attempting asset rename: sandstone_texture_Mat -> sandstone_texture_Mat
+[2024.12.09-09.29.50:926][453]LogContentBrowser: End creating deferred item sandstone_texture_Mat
+[2024.12.09-09.29.56:450][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.09-09.29.57:661][ 62]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.09-09.29.57:678][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.12.09-09.29.57:686][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.09-09.29.57:692][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.12.09-09.29.59:904][177]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: ================================================
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Total job queries 1,393, among them cache hits 242 (17.37%), DDC hits 1,105 (79.33%), Duplicates 2 (0.14%)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Tracking 1,149 distinct input hashes that result in 888 distinct outputs (77.28%)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: RAM used: 570.81 KiB of 1.60 GiB budget. Usage: 0.03%
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Shaders Compiled: 44
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100%)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Average time worker was idle: 21.57 s
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Time job spent in pending queue: average 0.41 s, longest 1.53 s
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 1.15 s
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Job life time (pending + execution): average 1.10 s, max 2.04
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Shader code size: average 7.384 KiB, min 2.777 KiB, max 25.816 KiB
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.25 s
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Average processing rate: 6.07 jobs/sec
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Total thread time: 19.64 s
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Total thread preprocess time: 14.711 s
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Percentage time preprocessing: 74.90%
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Effective parallelization: 2.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.52 sec, max 0.68 sec, min 0.35 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 34.63% of total time (compiled   13 times, average 0.52 sec, max 0.68 sec, min 0.35 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.12% of total time (compiled    7 times, average 0.42 sec, max 0.47 sec, min 0.36 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.81% of total time (compiled    7 times, average 0.39 sec, max 0.46 sec, min 0.28 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.48% of total time (compiled    7 times, average 0.35 sec, max 0.39 sec, min 0.29 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.81% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: === Material stats ===
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Materials Translated:    143
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Material Translation Only: 0.04 s (46%)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.09-09.30.02:041][352]LogShaderCompilers: Display: ================================================
+[2024.12.09-09.31.29:626][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.09-09.31.31:065][286]LogSlate: Window 'Save Content' being destroyed
+[2024.12.09-09.31.31:086][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-09.31.31:125][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.12.09-09.31.31:137][286]LogSavePackage: Moving output files for package: /Game/Tomb_Raider_egypt
+[2024.12.09-09.31.31:137][286]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Eye of Ra/TR_the_eye_of_Ra/TR_Egypt/Saved/Tomb_Raider_egypt7E322D014BC0D37AB0D6619EF5FC70FC.tmp' to '../../../../../../Users/Learner/Documents/Eye of Ra/TR_the_eye_of_Ra/TR_Egypt/Content/Tomb_Raider_egypt.umap'
+[2024.12.09-09.31.31:143][286]LogFileHelpers: Saving map 'Tomb_Raider_egypt' took 0.037
+[2024.12.09-09.31.31:143][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Custom_texture/sandstone_texture] ([1] browsable assets)...
+[2024.12.09-09.31.31:145][286]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/Custom_texture/sandstone_texture.sandstone_texture]
+[2024.12.09-09.31.31:145][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Custom_texture/sandstone_texture]
+[2024.12.09-09.31.31:147][286]LogSavePackage: Moving output files for package: /Game/StarterContent/Custom_texture/sandstone_texture
+[2024.12.09-09.31.31:147][286]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Eye of Ra/TR_the_eye_of_Ra/TR_Egypt/Saved/sandstone_texture1B1AC6AA47AC294C269508A5D057EF56.tmp' to '../../../../../../Users/Learner/Documents/Eye of Ra/TR_the_eye_of_Ra/TR_Egypt/Content/StarterContent/Custom_texture/sandstone_texture.uasset'
+[2024.12.09-09.31.31:148][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Custom_texture/sandstone_texture_Mat] ([1] browsable assets)...
+[2024.12.09-09.31.32:814][286]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Custom_texture/sandstone_texture_Mat.sandstone_texture_Mat]
+[2024.12.09-09.31.32:814][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Custom_texture/sandstone_texture_Mat]
+[2024.12.09-09.31.32:815][286]LogSavePackage: Moving output files for package: /Game/StarterContent/Custom_texture/sandstone_texture_Mat
+[2024.12.09-09.31.32:815][286]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Eye of Ra/TR_the_eye_of_Ra/TR_Egypt/Saved/sandstone_texture_MatC60DEA4F443EA96BD9352D838B8A234D.tmp' to '../../../../../../Users/Learner/Documents/Eye of Ra/TR_the_eye_of_Ra/TR_Egypt/Content/StarterContent/Custom_texture/sandstone_texture_Mat.uasset'
+[2024.12.09-09.31.32:822][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.73 sec
+[2024.12.09-09.31.32:846][286]LogStall: Shutdown...
+[2024.12.09-09.31.32:846][286]LogStall: Shutdown complete.
+[2024.12.09-09.31.32:872][286]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2024.12.09-09.31.32:874][286]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.12.09-09.31.32:926][286]LogContentValidation: Display: Starting to validate 3 assets
+[2024.12.09-09.31.32:926][286]LogContentValidation: Enabled validators:
+[2024.12.09-09.31.32:927][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.09-09.31.32:927][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-09.31.32:927][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-09.31.32:927][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.09-09.31.32:927][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-09.31.32:927][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.09-09.31.32:927][286]AssetCheck: /Game/Tomb_Raider_egypt Validating asset
+[2024.12.09-09.31.32:927][286]AssetCheck: /Game/StarterContent/Custom_texture/sandstone_texture Validating asset
+[2024.12.09-09.31.32:927][286]AssetCheck: /Game/StarterContent/Custom_texture/sandstone_texture_Mat Validating asset
+[2024.12.09-09.31.32:928][286]LogAutomationController: Ignoring very large delta of 3.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.09-09.31.32:928][286]Cmd: QUIT_EDITOR
+[2024.12.09-09.31.32:928][286]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.09-09.31.32:931][287]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.09-09.31.32:931][287]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.09-09.31.32:932][287]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.09-09.31.32:932][287]LogWorld: UWorld::CleanupWorld for Tomb_Raider_egypt, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-09.31.32:932][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-09.31.32:938][287]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.09-09.31.32:939][287]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.09-09.31.32:942][287]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-09.31.32:942][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-09.31.32:943][287]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-09.31.32:943][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-09.31.32:943][287]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-09.31.32:943][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-09.31.32:944][287]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.09-09.31.32:945][287]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.09-09.31.32:945][287]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.09-09.31.32:945][287]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.09-09.31.32:945][287]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.09-09.31.32:945][287]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.09-09.31.32:945][287]LogAudio: Display: Audio Device unregistered from world 'Tomb_Raider_egypt'.
+[2024.12.09-09.31.32:945][287]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.09-09.31.32:946][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.09-09.31.32:947][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.09-09.31.32:953][287]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.09-09.31.32:953][287]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.09-09.31.32:954][287]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.09-09.31.32:954][287]LogExit: Preparing to exit.
+[2024.12.09-09.31.32:970][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.09-09.31.33:312][287]LogEditorDataStorage: Deinitializing
+[2024.12.09-09.31.33:405][287]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.09-09.31.33:416][287]LogExit: Editor shut down
+[2024.12.09-09.31.33:417][287]LogExit: Transaction tracking system shut down
+[2024.12.09-09.31.33:504][287]LogExit: Object subsystem successfully closed.
+[2024.12.09-09.31.33:534][287]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.09-09.31.34:498][287]LogMemoryProfiler: Shutdown
+[2024.12.09-09.31.34:499][287]LogNetworkingProfiler: Shutdown
+[2024.12.09-09.31.34:499][287]LoadingProfiler: Shutdown
+[2024.12.09-09.31.34:499][287]LogTimingProfiler: Shutdown
+[2024.12.09-09.31.34:778][287]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.09-09.31.34:791][287]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.09-09.31.34:791][287]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B750BF648-40B3-8E93-BE08-FC8E30F9C14C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=d574d1064ae8f8a1a1adfab55ced4064%7C8867d8bbc9784284948661bb636eddc9%7Cd0e1b428-16c3-4716-b809-289906324a8c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.09-09.31.35:334][287]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.09-09.31.35:341][287]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.09-09.31.35:341][287]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.09-09.31.35:341][287]RenderDocPlugin: plugin has been unloaded.
+[2024.12.09-09.31.35:344][287]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.09-09.31.35:344][287]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.09-09.31.35:344][287]LogPakFile: Destroying PakPlatformFile
+[2024.12.09-09.31.35:502][287]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.09-09.31.35:527][287]LogExit: Exiting.
+[2024.12.09-09.31.35:540][287]Log file closed, 12/09/24 09:31:35
