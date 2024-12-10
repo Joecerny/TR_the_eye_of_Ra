@@ -1358,3 +1358,681 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.10-09.40.53:808][ 16]LogFab: Display: User logged in
 [2024.12.10-09.40.53:808][ 16]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2024.12.10-09.40.54:476][ 18]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-9cob71ZOr0G1zukbQes-Ug-2lF40A1X8kardDkSdTDivw]
+[2024.12.10-09.41.09:042][ 66]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2024.12.10-09.41.10:194][140]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.10-09.41.19:632][ 68]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.10-09.41.25:077][404]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-09.41.25:097][404]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.12.10-09.41.25:113][404]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2024.12.10-09.41.25:116][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2024.12.10-09.41.25:120][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2024.12.10-09.41.25:123][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/IMC_Default.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Input/IMC_Default.uasset"
+[2024.12.10-09.41.25:128][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2024.12.10-09.41.25:133][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2024.12.10-09.41.25:137][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
+[2024.12.10-09.41.25:140][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Look.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Input/Actions/IA_Look.uasset"
+[2024.12.10-09.41.25:143][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Move.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Input/Actions/IA_Move.uasset"
+[2024.12.10-09.41.25:147][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2024.12.10-09.41.25:150][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2024.12.10-09.41.25:154][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2024.12.10-09.41.25:158][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2024.12.10-09.41.25:161][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2024.12.10-09.41.25:165][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2024.12.10-09.41.25:169][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2024.12.10-09.41.25:172][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2024.12.10-09.41.25:175][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2024.12.10-09.41.25:179][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2024.12.10-09.41.25:183][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2024.12.10-09.41.25:186][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2024.12.10-09.41.25:189][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2024.12.10-09.41.25:192][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2024.12.10-09.41.25:197][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2024.12.10-09.41.25:200][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2024.12.10-09.41.25:203][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2024.12.10-09.41.25:207][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2024.12.10-09.41.25:211][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2024.12.10-09.41.25:214][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2024.12.10-09.41.25:218][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2024.12.10-09.41.25:221][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2024.12.10-09.41.25:225][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2024.12.10-09.41.25:228][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2024.12.10-09.41.25:231][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2024.12.10-09.41.25:235][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2024.12.10-09.41.25:238][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2024.12.10-09.41.25:242][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2024.12.10-09.41.25:246][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2024.12.10-09.41.25:249][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2024.12.10-09.41.25:252][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2024.12.10-09.41.25:256][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2024.12.10-09.41.25:260][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2024.12.10-09.41.25:263][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2024.12.10-09.41.25:267][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2024.12.10-09.41.25:269][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2024.12.10-09.41.25:273][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2024.12.10-09.41.25:277][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2024.12.10-09.41.25:280][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2024.12.10-09.41.25:283][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2024.12.10-09.41.25:288][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2024.12.10-09.41.25:292][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2024.12.10-09.41.25:295][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2024.12.10-09.41.25:299][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2024.12.10-09.41.25:302][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2024.12.10-09.41.25:305][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2024.12.10-09.41.25:308][404]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2024.12.10-09.41.25:715][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-09.41.25:734][404]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.10-09.41.25:735][404]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2024.12.10-09.41.25:797][404]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.10-09.41.25:797][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.10-09.41.25:807][404]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.10-09.41.25:808][404]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/BP_ThirdPersonCharacter7752785747DE7EB4BA2533BC307D6320.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.10-09.41.25:817][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.549 ms
+[2024.12.10-09.41.26:063][404]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.10-09.41.26:063][404]LogContentValidation: Enabled validators:
+[2024.12.10-09.41.26:063][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-09.41.26:063][404]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-09.41.26:063][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-09.41.26:063][404]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-09.41.26:063][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-09.41.26:063][404]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-09.41.26:065][404]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.10-09.41.32:511][831]LogSlate: Window 'Content Browser' being destroyed
+[2024.12.10-09.41.32:514][831]LogSlate: Window 'Content Browser' being destroyed
+[2024.12.10-09.41.36:128][ 97]LogSlate: Window 'Add Content to the Project' being destroyed
+[2024.12.10-09.42.08:533][573]LogStreaming: Display: FlushAsyncLoading(487): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-09.42.08:572][573]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.10-09.42.08:572][573]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.10-09.42.08:572][573]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.10-09.42.08:572][573]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.10-09.42.08:573][573]LogWorldPartition: Display: WorldPartition initialize took 1.138 ms (total: 243.286 ms)
+[2024.12.10-09.42.10:458][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.10-09.42.10:462][743]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.12.10-09.42.10:463][743]Cmd: MAP LOAD FILE="../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.10-09.42.10:486][743]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-09.42.10:486][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-09.42.10:486][743]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2024.12.10-09.42.10:513][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-09.42.10:526][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.10-09.42.10:529][743]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-09.42.10:529][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-09.42.10:529][743]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.12.10-09.42.10:538][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.10-09.42.10:546][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.10-09.42.10:546][743]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-09.42.10:550][743]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.12.10-09.42.10:550][743]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.10-09.42.10:551][743]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.10-09.42.10:551][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.10-09.42.10:551][743]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.10-09.42.10:562][743]LogWorldPartition: Display: WorldPartition initialize took 11.067 ms (total: 254.353 ms)
+[2024.12.10-09.42.10:593][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.10-09.42.10:603][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.10-09.42.10:608][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.10-09.42.10:608][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.431ms to complete.
+[2024.12.10-09.42.11:991][847]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.12.10-09.42.27:268][228]LogMetaData: Removing '/Game/ThirdPersonMap.ThirdPersonMap_C' ref from Metadata '/Game/ThirdPerson/Maps/ThirdPersonMap.PackageMetaData'
+[2024.12.10-09.42.27:268][228]LogMetaData: Removing '/Game/ThirdPersonMap.SKEL_ThirdPersonMap_C' ref from Metadata '/Game/ThirdPerson/Maps/ThirdPersonMap.PackageMetaData'
+[2024.12.10-09.42.27:278][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-09.42.27:303][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.10-09.42.27:313][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.10-09.42.27:320][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.12.10-09.42.27:349][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.42.27:353][228]LogSavePackage: Moving output files for package: /Game/ThirdPersonMap
+[2024.12.10-09.42.27:353][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/ThirdPersonMapD8305FF3411F10CCFA018F96D6552762.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPersonMap.umap'
+[2024.12.10-09.42.27:366][228]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPersonMap/2/IM/VNZA3BJR97COF4VDOYGZXR
+/Game/__ExternalObjects__/ThirdPersonMap/3/TZ/TX82UFPLQWCJSYWZGNIEJA
+/Game/__ExternalObjects__/ThirdPersonMap/9/7F/GLPNZOSTLMVM98RP12UMV4
+/Game/__ExternalObjects__/ThirdPersonMap/6/U2/RFG0SQ1DE3A77430EQD3YV
+/Game/__ExternalObjects__/ThirdPersonMap/7/YF/UUAXV4637V5S51QMANTN7E
+/Game/__ExternalObjects__/ThirdPersonMap/9/MT/ZAJPLAEAS53JAF2QIBLZP7
+/Game/__ExternalObjects__/ThirdPersonMap/3/GM/GPCSPSKXBCXWFILX76O28F
+/Game/__ExternalActors__/ThirdPersonMap/A/1J/RSE1088X06ZBYBRPEKT6K5
+/Game/__ExternalActors__/ThirdPersonMap/8/YZ/SO0T5RIVL0KJ86YQXHMPQ6
+/Game/__ExternalActors__/ThirdPersonMap/4/LX/JOAWX75I5MSCZ90P18QI96
+/Game/__ExternalActors__/ThirdPersonMap/8/7N/YXJPWE3A1NQ6R18NT53WA8
+/Game/__ExternalActors__/ThirdPersonMap/4/GV/JS8SQY1KLY0L41C2NKZUQR
+/Game/__ExternalActors__/ThirdPersonMap/A/LA/69YB2DWOMV6VAB4QYEN8NK
+/Game/__ExternalActors__/ThirdPersonMap/9/7M/0QX2DVKCAUYUFQRDLF4GQS
+/Game/__ExternalActors__/ThirdPersonMap/D/PZ/6ITKZ0F8MTSFDIN088NH3S
+/Game/__ExternalActors__/ThirdPersonMap/7/51/KNHIZAFMR2CJPT5NJ4U85Z
+/Game/__ExternalActors__/ThirdPersonMap/D/RF/Z0H2WU8D37PHVNN8NE4ZVA
+/Game/__ExternalActors__/ThirdPersonMap/E/4E/42F7MC9R9AODONRGQZN153
+/Game/__ExternalActors__/ThirdPersonMap/5/ZX/H3QHNWQM0AL401Z2ODCWQM
+/Game/__ExternalActors__/ThirdPersonMap/D/P5/JQW08JS0JD8UGZT5QTW17T
+/Game/__ExternalActors__/ThirdPersonMap/E/4F/XNSBJ49PN7H3Q5IHFC243P
+/Game/__ExternalActors__/ThirdPersonMap/2/9S/H9XBOAG1ALK0BNG4QVFO0P
+/Game/__ExternalActors__/ThirdPersonMap/9/IV/7956J1HOIH0KUOMM4V8VN9
+/Game/__ExternalActors__/ThirdPersonMap/8/EW/FU18YKSOF9DPCSMXKYVL2B
+/Game/__ExternalActors__/ThirdPersonMap/0/HL/7RG1654EYBAQ0303BWO0XN
+/Game/__ExternalActors__/ThirdPersonMap/9/HM/YFCVOXPTL18B0FYZUQD8O6
+/Game/__ExternalActors__/ThirdPersonMap/3/33/VNC4KQHKYFNV2AMQBRVWCW
+/Game/__ExternalActors__/ThirdPersonMap/C/4I/8FVYLFRLZJ2UZQRCPERP9H
+/Game/__ExternalActors__/ThirdPersonMap/D/A0/U60RKVTB84F5K3WMIUHMP2
+/Game/__ExternalActors__/ThirdPersonMap/7/SO/FXEYRWYEDZ8X2BDXICSK7K
+/Game/__ExternalActors__/ThirdPersonMap/7/07/WZLDJD7I41AWH1S1K5MLQ2
+/Game/__ExternalActors__/ThirdPersonMap/8/HR/FUTKKAYP31LHDVLSVNA17X
+/Game/__ExternalActors__/ThirdPersonMap/4/IJ/WJ93IM77QX7SBB2CIYEG8S
+/Game/__ExternalActors__/ThirdPersonMap/6/HT/SZUW9T8V6AWF5CJE5I20F8
+/Game/__ExternalActors__/ThirdPersonMap/7/FT/R8QDHXWFVJ26UZ6OGHVT5F
+/Game/__ExternalActors__/ThirdPersonMap/3/UV/DOSTS28QXZPX09PQ7Z12MH
+/Game/__ExternalActors__/ThirdPersonMap/E/7M/ZDID57ORW9L2CVTYRWE8AT
+/Game/__ExternalActors__/ThirdPersonMap/3/U8/0AZIBQZ2GATNIPMJRV4E91
+/Game/__ExternalActors__/ThirdPersonMap/1/2P/6QSO1K1RVFO40T4WYZUW9F
+/Game/__ExternalActors__/ThirdPersonMap/2/Q3/FRS0CVXHR7LDTHIC55YFUM
+/Game/__ExternalActors__/ThirdPersonMap/8/21/8DW4P9Z89ZIV937Z2Q0CBO
+/Game/__ExternalActors__/ThirdPersonMap/A/LI/P2VBUX4MYKMA45STRS80WX
+/Game/__ExternalActors__/ThirdPersonMap/2/GD/7JJURJ7Q6LSAUK9PIPDSI7
+/Game/__ExternalActors__/ThirdPersonMap/C/UV/WPWZ9T3E2G7CI1B18WD7SV
+/Game/__ExternalActors__/ThirdPersonMap/1/N8/JVLL0YFO3EQL5DEVXSOJ6B
+/Game/__ExternalActors__/ThirdPersonMap/4/GM/9A25H4HV5UKTEJX2Q4GL56
+[2024.12.10-09.42.27:366][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-09.42.27:367][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/2/IM/VNZA3BJR97COF4VDOYGZXR
+[2024.12.10-09.42.27:367][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/VNZA3BJR97COF4VDOYGZXR9D83116C437D3EDB60A6A786783ADA5C.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/2/IM/VNZA3BJR97COF4VDOYGZXR.uasset'
+[2024.12.10-09.42.27:368][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPersonMap/3/TZ/TX82UFPLQWCJSYWZGNIEJA] ([1] browsable assets)...
+[2024.12.10-09.42.27:368][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPersonMap/3/TZ/TX82UFPLQWCJSYWZGNIEJA]
+[2024.12.10-09.42.27:368][228]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPersonMap/3/TZ/TX82UFPLQWCJSYWZGNIEJA
+[2024.12.10-09.42.27:368][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/TX82UFPLQWCJSYWZGNIEJA2A3831A94C911C196BE88C85AC1DD5C7.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPersonMap/3/TZ/TX82UFPLQWCJSYWZGNIEJA.uasset'
+[2024.12.10-09.42.27:369][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPersonMap/9/7F/GLPNZOSTLMVM98RP12UMV4] ([1] browsable assets)...
+[2024.12.10-09.42.27:369][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPersonMap/9/7F/GLPNZOSTLMVM98RP12UMV4]
+[2024.12.10-09.42.27:370][228]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPersonMap/9/7F/GLPNZOSTLMVM98RP12UMV4
+[2024.12.10-09.42.27:370][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/GLPNZOSTLMVM98RP12UMV4379D4A1148F5EC37B495BFA53369E53B.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPersonMap/9/7F/GLPNZOSTLMVM98RP12UMV4.uasset'
+[2024.12.10-09.42.27:371][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPersonMap/6/U2/RFG0SQ1DE3A77430EQD3YV] ([1] browsable assets)...
+[2024.12.10-09.42.27:371][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPersonMap/6/U2/RFG0SQ1DE3A77430EQD3YV]
+[2024.12.10-09.42.27:371][228]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPersonMap/6/U2/RFG0SQ1DE3A77430EQD3YV
+[2024.12.10-09.42.27:371][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/RFG0SQ1DE3A77430EQD3YV0FFEF54B48064F178CC5049DE61FAB80.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPersonMap/6/U2/RFG0SQ1DE3A77430EQD3YV.uasset'
+[2024.12.10-09.42.27:372][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPersonMap/7/YF/UUAXV4637V5S51QMANTN7E] ([1] browsable assets)...
+[2024.12.10-09.42.27:372][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPersonMap/7/YF/UUAXV4637V5S51QMANTN7E]
+[2024.12.10-09.42.27:373][228]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPersonMap/7/YF/UUAXV4637V5S51QMANTN7E
+[2024.12.10-09.42.27:373][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/UUAXV4637V5S51QMANTN7ECD73F58545757C4A605C4EA70A2A7EF1.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPersonMap/7/YF/UUAXV4637V5S51QMANTN7E.uasset'
+[2024.12.10-09.42.27:374][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPersonMap/9/MT/ZAJPLAEAS53JAF2QIBLZP7] ([1] browsable assets)...
+[2024.12.10-09.42.27:374][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPersonMap/9/MT/ZAJPLAEAS53JAF2QIBLZP7]
+[2024.12.10-09.42.27:374][228]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPersonMap/9/MT/ZAJPLAEAS53JAF2QIBLZP7
+[2024.12.10-09.42.27:374][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/ZAJPLAEAS53JAF2QIBLZP73F12881840CAFD01FD7B168041AE3A6C.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPersonMap/9/MT/ZAJPLAEAS53JAF2QIBLZP7.uasset'
+[2024.12.10-09.42.27:375][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPersonMap/3/GM/GPCSPSKXBCXWFILX76O28F] ([1] browsable assets)...
+[2024.12.10-09.42.27:375][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPersonMap/3/GM/GPCSPSKXBCXWFILX76O28F]
+[2024.12.10-09.42.27:376][228]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPersonMap/3/GM/GPCSPSKXBCXWFILX76O28F
+[2024.12.10-09.42.27:376][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/GPCSPSKXBCXWFILX76O28F4224136D4D067E90D6D09384E88352C6.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalObjects__/ThirdPersonMap/3/GM/GPCSPSKXBCXWFILX76O28F.uasset'
+[2024.12.10-09.42.27:377][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/A/1J/RSE1088X06ZBYBRPEKT6K5
+[2024.12.10-09.42.27:377][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/RSE1088X06ZBYBRPEKT6K58FA1EE90419B36455A68F586207B7AFD.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/A/1J/RSE1088X06ZBYBRPEKT6K5.uasset'
+[2024.12.10-09.42.27:379][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/8/YZ/SO0T5RIVL0KJ86YQXHMPQ6
+[2024.12.10-09.42.27:379][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/SO0T5RIVL0KJ86YQXHMPQ690B0EC49466801613C8CD5A8C915BA37.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/8/YZ/SO0T5RIVL0KJ86YQXHMPQ6.uasset'
+[2024.12.10-09.42.27:381][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/4/LX/JOAWX75I5MSCZ90P18QI96
+[2024.12.10-09.42.27:381][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/JOAWX75I5MSCZ90P18QI967DC041974DF21082B9456499BE4429FA.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/4/LX/JOAWX75I5MSCZ90P18QI96.uasset'
+[2024.12.10-09.42.27:383][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/8/7N/YXJPWE3A1NQ6R18NT53WA8
+[2024.12.10-09.42.27:383][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/YXJPWE3A1NQ6R18NT53WA8C8BFC586443D1525C187579CA36E8DBD.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/8/7N/YXJPWE3A1NQ6R18NT53WA8.uasset'
+[2024.12.10-09.42.27:384][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/4/GV/JS8SQY1KLY0L41C2NKZUQR
+[2024.12.10-09.42.27:384][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/JS8SQY1KLY0L41C2NKZUQR800E47FA457AEB9B951E109556182A81.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/4/GV/JS8SQY1KLY0L41C2NKZUQR.uasset'
+[2024.12.10-09.42.27:386][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/A/LA/69YB2DWOMV6VAB4QYEN8NK
+[2024.12.10-09.42.27:386][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/69YB2DWOMV6VAB4QYEN8NK1030C632413DE5085197C18565DE15A0.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/A/LA/69YB2DWOMV6VAB4QYEN8NK.uasset'
+[2024.12.10-09.42.27:387][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/9/7M/0QX2DVKCAUYUFQRDLF4GQS
+[2024.12.10-09.42.27:387][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/0QX2DVKCAUYUFQRDLF4GQSBDFB9A594CEA9BAE1D7D15AE32E16CFF.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/9/7M/0QX2DVKCAUYUFQRDLF4GQS.uasset'
+[2024.12.10-09.42.27:388][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/D/PZ/6ITKZ0F8MTSFDIN088NH3S
+[2024.12.10-09.42.27:390][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/6ITKZ0F8MTSFDIN088NH3S8AE559B24F505AFA4EEDB98663D8F17C.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/D/PZ/6ITKZ0F8MTSFDIN088NH3S.uasset'
+[2024.12.10-09.42.27:391][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/7/51/KNHIZAFMR2CJPT5NJ4U85Z
+[2024.12.10-09.42.27:391][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/KNHIZAFMR2CJPT5NJ4U85ZB95E25F74134FECB26521F9A245F90AC.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/7/51/KNHIZAFMR2CJPT5NJ4U85Z.uasset'
+[2024.12.10-09.42.27:393][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/D/RF/Z0H2WU8D37PHVNN8NE4ZVA
+[2024.12.10-09.42.27:393][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Z0H2WU8D37PHVNN8NE4ZVA69A9AB834ADA137E29435CA01742BD75.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/D/RF/Z0H2WU8D37PHVNN8NE4ZVA.uasset'
+[2024.12.10-09.42.27:394][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/E/4E/42F7MC9R9AODONRGQZN153
+[2024.12.10-09.42.27:394][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/42F7MC9R9AODONRGQZN153514B8284449B94E6715B15B9A82D729F.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/E/4E/42F7MC9R9AODONRGQZN153.uasset'
+[2024.12.10-09.42.27:396][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/5/ZX/H3QHNWQM0AL401Z2ODCWQM
+[2024.12.10-09.42.27:396][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/H3QHNWQM0AL401Z2ODCWQM11C8589E4FE08C74367E40B4255E6B91.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/5/ZX/H3QHNWQM0AL401Z2ODCWQM.uasset'
+[2024.12.10-09.42.27:398][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/D/P5/JQW08JS0JD8UGZT5QTW17T
+[2024.12.10-09.42.27:398][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/JQW08JS0JD8UGZT5QTW17T52A4BB2643CC532604C7DA867EA79321.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/D/P5/JQW08JS0JD8UGZT5QTW17T.uasset'
+[2024.12.10-09.42.27:399][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/E/4F/XNSBJ49PN7H3Q5IHFC243P
+[2024.12.10-09.42.27:399][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/XNSBJ49PN7H3Q5IHFC243P0476C7EF43FEA646240CA7888BDCFAB1.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/E/4F/XNSBJ49PN7H3Q5IHFC243P.uasset'
+[2024.12.10-09.42.27:401][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/2/9S/H9XBOAG1ALK0BNG4QVFO0P
+[2024.12.10-09.42.27:401][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/H9XBOAG1ALK0BNG4QVFO0PDF0EA398451AE7260986F19CD23A8863.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/2/9S/H9XBOAG1ALK0BNG4QVFO0P.uasset'
+[2024.12.10-09.42.27:402][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/9/IV/7956J1HOIH0KUOMM4V8VN9
+[2024.12.10-09.42.27:402][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/7956J1HOIH0KUOMM4V8VN9D497EB6A4B2CC5404D71F08D73C43DFD.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/9/IV/7956J1HOIH0KUOMM4V8VN9.uasset'
+[2024.12.10-09.42.27:404][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/8/EW/FU18YKSOF9DPCSMXKYVL2B
+[2024.12.10-09.42.27:404][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/FU18YKSOF9DPCSMXKYVL2BEB9C3EB7455A64BEB5B1D58CEF4FBBE5.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/8/EW/FU18YKSOF9DPCSMXKYVL2B.uasset'
+[2024.12.10-09.42.27:406][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/0/HL/7RG1654EYBAQ0303BWO0XN
+[2024.12.10-09.42.27:406][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/7RG1654EYBAQ0303BWO0XNB66062074CC92AF5FB321E9185736AE4.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/0/HL/7RG1654EYBAQ0303BWO0XN.uasset'
+[2024.12.10-09.42.27:408][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/9/HM/YFCVOXPTL18B0FYZUQD8O6
+[2024.12.10-09.42.27:408][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/YFCVOXPTL18B0FYZUQD8O6EACBC8FC472DCB26BFD1699EE30463B1.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/9/HM/YFCVOXPTL18B0FYZUQD8O6.uasset'
+[2024.12.10-09.42.27:409][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/3/33/VNC4KQHKYFNV2AMQBRVWCW
+[2024.12.10-09.42.27:409][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/VNC4KQHKYFNV2AMQBRVWCW2813D4054C02FAD55B581AA481FA8593.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/3/33/VNC4KQHKYFNV2AMQBRVWCW.uasset'
+[2024.12.10-09.42.27:411][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/C/4I/8FVYLFRLZJ2UZQRCPERP9H
+[2024.12.10-09.42.27:411][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/8FVYLFRLZJ2UZQRCPERP9H7460FBF84276BBA36D0842930EAEA676.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/C/4I/8FVYLFRLZJ2UZQRCPERP9H.uasset'
+[2024.12.10-09.42.27:413][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/D/A0/U60RKVTB84F5K3WMIUHMP2
+[2024.12.10-09.42.27:413][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/U60RKVTB84F5K3WMIUHMP2F1A17C8E405047EFDB97A2A2AF81A280.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/D/A0/U60RKVTB84F5K3WMIUHMP2.uasset'
+[2024.12.10-09.42.27:414][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/7/SO/FXEYRWYEDZ8X2BDXICSK7K
+[2024.12.10-09.42.27:414][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/FXEYRWYEDZ8X2BDXICSK7KBBF537C842FE1FABD35AB5806862562A.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/7/SO/FXEYRWYEDZ8X2BDXICSK7K.uasset'
+[2024.12.10-09.42.27:416][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/7/07/WZLDJD7I41AWH1S1K5MLQ2
+[2024.12.10-09.42.27:416][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/WZLDJD7I41AWH1S1K5MLQ2D2D8AB404EC8B3D81609D78A9D9E6624.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/7/07/WZLDJD7I41AWH1S1K5MLQ2.uasset'
+[2024.12.10-09.42.27:417][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/8/HR/FUTKKAYP31LHDVLSVNA17X
+[2024.12.10-09.42.27:417][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/FUTKKAYP31LHDVLSVNA17X4B3AD8584F805E980738AC9480C88CB0.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/8/HR/FUTKKAYP31LHDVLSVNA17X.uasset'
+[2024.12.10-09.42.27:420][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/4/IJ/WJ93IM77QX7SBB2CIYEG8S
+[2024.12.10-09.42.27:420][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/WJ93IM77QX7SBB2CIYEG8S39A2B85049891AAA816FB6B550A0867E.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/4/IJ/WJ93IM77QX7SBB2CIYEG8S.uasset'
+[2024.12.10-09.42.27:421][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/6/HT/SZUW9T8V6AWF5CJE5I20F8
+[2024.12.10-09.42.27:421][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/SZUW9T8V6AWF5CJE5I20F82C2E8285446B522755E0C380CB0AD695.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/6/HT/SZUW9T8V6AWF5CJE5I20F8.uasset'
+[2024.12.10-09.42.27:423][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/7/FT/R8QDHXWFVJ26UZ6OGHVT5F
+[2024.12.10-09.42.27:423][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/R8QDHXWFVJ26UZ6OGHVT5F2FC9B4434E92800B396C46AD8A7B1047.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/7/FT/R8QDHXWFVJ26UZ6OGHVT5F.uasset'
+[2024.12.10-09.42.27:425][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/3/UV/DOSTS28QXZPX09PQ7Z12MH
+[2024.12.10-09.42.27:425][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/DOSTS28QXZPX09PQ7Z12MH60674FAE4383A09866AD15B1915D4C63.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/3/UV/DOSTS28QXZPX09PQ7Z12MH.uasset'
+[2024.12.10-09.42.27:426][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/E/7M/ZDID57ORW9L2CVTYRWE8AT
+[2024.12.10-09.42.27:426][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/ZDID57ORW9L2CVTYRWE8AT08F6FB9A436B0DB9A22A52B03697C553.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/E/7M/ZDID57ORW9L2CVTYRWE8AT.uasset'
+[2024.12.10-09.42.27:428][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/3/U8/0AZIBQZ2GATNIPMJRV4E91
+[2024.12.10-09.42.27:428][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/0AZIBQZ2GATNIPMJRV4E919FEA6C4648AE91C0412D58B0F7883545.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/3/U8/0AZIBQZ2GATNIPMJRV4E91.uasset'
+[2024.12.10-09.42.27:429][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/1/2P/6QSO1K1RVFO40T4WYZUW9F
+[2024.12.10-09.42.27:429][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/6QSO1K1RVFO40T4WYZUW9F441D5C774F389EA90C2AEDAB1D3E1AA4.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/1/2P/6QSO1K1RVFO40T4WYZUW9F.uasset'
+[2024.12.10-09.42.27:431][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/2/Q3/FRS0CVXHR7LDTHIC55YFUM
+[2024.12.10-09.42.27:431][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/FRS0CVXHR7LDTHIC55YFUM111CDA6A4653C0554438598452227637.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/2/Q3/FRS0CVXHR7LDTHIC55YFUM.uasset'
+[2024.12.10-09.42.27:432][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/8/21/8DW4P9Z89ZIV937Z2Q0CBO
+[2024.12.10-09.42.27:432][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/8DW4P9Z89ZIV937Z2Q0CBO41C04A544DDB8DAF4F42D3BC94D057B6.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/8/21/8DW4P9Z89ZIV937Z2Q0CBO.uasset'
+[2024.12.10-09.42.27:434][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/A/LI/P2VBUX4MYKMA45STRS80WX
+[2024.12.10-09.42.27:434][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/P2VBUX4MYKMA45STRS80WXB8F6D11A4AF434F10AFB26B1DB5AB542.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/A/LI/P2VBUX4MYKMA45STRS80WX.uasset'
+[2024.12.10-09.42.27:435][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/2/GD/7JJURJ7Q6LSAUK9PIPDSI7
+[2024.12.10-09.42.27:435][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/7JJURJ7Q6LSAUK9PIPDSI76D68AA584FB12230EA9958BA7162AF4C.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/2/GD/7JJURJ7Q6LSAUK9PIPDSI7.uasset'
+[2024.12.10-09.42.27:437][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/C/UV/WPWZ9T3E2G7CI1B18WD7SV
+[2024.12.10-09.42.27:437][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/WPWZ9T3E2G7CI1B18WD7SV0F7438E744A927D2275479906BF53E77.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/C/UV/WPWZ9T3E2G7CI1B18WD7SV.uasset'
+[2024.12.10-09.42.27:439][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/1/N8/JVLL0YFO3EQL5DEVXSOJ6B
+[2024.12.10-09.42.27:439][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/JVLL0YFO3EQL5DEVXSOJ6B8D65837848E01AD4D64BEE95CB19DE67.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/1/N8/JVLL0YFO3EQL5DEVXSOJ6B.uasset'
+[2024.12.10-09.42.27:440][228]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/4/GM/9A25H4HV5UKTEJX2Q4GL56
+[2024.12.10-09.42.27:440][228]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/9A25H4HV5UKTEJX2Q4GL56C4C85653464C443DED99CCAEFF2036FE.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/__ExternalActors__/ThirdPersonMap/4/GM/9A25H4HV5UKTEJX2Q4GL56.uasset'
+[2024.12.10-09.42.27:442][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.336 ms (total: 178.886 ms)
+[2024.12.10-09.42.27:444][228]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPersonMap/2/IM/VNZA3BJR97COF4VDOYGZXR
+/Game/__ExternalObjects__/ThirdPersonMap/3/TZ/TX82UFPLQWCJSYWZGNIEJA
+/Game/__ExternalObjects__/ThirdPersonMap/9/7F/GLPNZOSTLMVM98RP12UMV4
+/Game/__ExternalObjects__/ThirdPersonMap/6/U2/RFG0SQ1DE3A77430EQD3YV
+/Game/__ExternalObjects__/ThirdPersonMap/7/YF/UUAXV4637V5S51QMANTN7E
+/Game/__ExternalObjects__/ThirdPersonMap/9/MT/ZAJPLAEAS53JAF2QIBLZP7
+/Game/__ExternalObjects__/ThirdPersonMap/3/GM/GPCSPSKXBCXWFILX76O28F
+/Game/__ExternalActors__/ThirdPersonMap/A/1J/RSE1088X06ZBYBRPEKT6K5
+/Game/__ExternalActors__/ThirdPersonMap/8/YZ/SO0T5RIVL0KJ86YQXHMPQ6
+/Game/__ExternalActors__/ThirdPersonMap/4/LX/JOAWX75I5MSCZ90P18QI96
+/Game/__ExternalActors__/ThirdPersonMap/8/7N/YXJPWE3A1NQ6R18NT53WA8
+/Game/__ExternalActors__/ThirdPersonMap/4/GV/JS8SQY1KLY0L41C2NKZUQR
+/Game/__ExternalActors__/ThirdPersonMap/A/LA/69YB2DWOMV6VAB4QYEN8NK
+/Game/__ExternalActors__/ThirdPersonMap/9/7M/0QX2DVKCAUYUFQRDLF4GQS
+/Game/__ExternalActors__/ThirdPersonMap/D/PZ/6ITKZ0F8MTSFDIN088NH3S
+/Game/__ExternalActors__/ThirdPersonMap/7/51/KNHIZAFMR2CJPT5NJ4U85Z
+/Game/__ExternalActors__/ThirdPersonMap/D/RF/Z0H2WU8D37PHVNN8NE4ZVA
+/Game/__ExternalActors__/ThirdPersonMap/E/4E/42F7MC9R9AODONRGQZN153
+/Game/__ExternalActors__/ThirdPersonMap/5/ZX/H3QHNWQM0AL401Z2ODCWQM
+/Game/__ExternalActors__/ThirdPersonMap/D/P5/JQW08JS0JD8UGZT5QTW17T
+/Game/__ExternalActors__/ThirdPersonMap/E/4F/XNSBJ49PN7H3Q5IHFC243P
+/Game/__ExternalActors__/ThirdPersonMap/2/9S/H9XBOAG1ALK0BNG4QVFO0P
+/Game/__ExternalActors__/ThirdPersonMap/9/IV/7956J1HOIH0KUOMM4V8VN9
+/Game/__ExternalActors__/ThirdPersonMap/8/EW/FU18YKSOF9DPCSMXKYVL2B
+/Game/__ExternalActors__/ThirdPersonMap/0/HL/7RG1654EYBAQ0303BWO0XN
+/Game/__ExternalActors__/ThirdPersonMap/9/HM/YFCVOXPTL18B0FYZUQD8O6
+/Game/__ExternalActors__/ThirdPersonMap/3/33/VNC4KQHKYFNV2AMQBRVWCW
+/Game/__ExternalActors__/ThirdPersonMap/C/4I/8FVYLFRLZJ2UZQRCPERP9H
+/Game/__ExternalActors__/ThirdPersonMap/D/A0/U60RKVTB84F5K3WMIUHMP2
+/Game/__ExternalActors__/ThirdPersonMap/7/SO/FXEYRWYEDZ8X2BDXICSK7K
+/Game/__ExternalActors__/ThirdPersonMap/7/07/WZLDJD7I41AWH1S1K5MLQ2
+/Game/__ExternalActors__/ThirdPersonMap/8/HR/FUTKKAYP31LHDVLSVNA17X
+/Game/__ExternalActors__/ThirdPersonMap/4/IJ/WJ93IM77QX7SBB2CIYEG8S
+/Game/__ExternalActors__/ThirdPersonMap/6/HT/SZUW9T8V6AWF5CJE5I20F8
+/Game/__ExternalActors__/ThirdPersonMap/7/FT/R8QDHXWFVJ26UZ6OGHVT5F
+/Game/__ExternalActors__/ThirdPersonMap/3/UV/DOSTS28QXZPX09PQ7Z12MH
+/Game/__ExternalActors__/ThirdPersonMap/E/7M/ZDID57ORW9L2CVTYRWE8AT
+/Game/__ExternalActors__/ThirdPersonMap/3/U8/0AZIBQZ2GATNIPMJRV4E91
+/Game/__ExternalActors__/ThirdPersonMap/1/2P/6QSO1K1RVFO40T4WYZUW9F
+/Game/__ExternalActors__/ThirdPersonMap/2/Q3/FRS0CVXHR7LDTHIC55YFUM
+/Game/__ExternalActors__/ThirdPersonMap/8/21/8DW4P9Z89ZIV937Z2Q0CBO
+/Game/__ExternalActors__/ThirdPersonMap/A/LI/P2VBUX4MYKMA45STRS80WX
+/Game/__ExternalActors__/ThirdPersonMap/2/GD/7JJURJ7Q6LSAUK9PIPDSI7
+/Game/__ExternalActors__/ThirdPersonMap/C/UV/WPWZ9T3E2G7CI1B18WD7SV
+/Game/__ExternalActors__/ThirdPersonMap/1/N8/JVLL0YFO3EQL5DEVXSOJ6B
+/Game/__ExternalActors__/ThirdPersonMap/4/GM/9A25H4HV5UKTEJX2Q4GL56
+[2024.12.10-09.42.27:448][228]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.120
+[2024.12.10-09.42.27:448][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.988 ms (total: 347.874 ms)
+[2024.12.10-09.42.27:460][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.42.27:468][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.10-09.42.27:474][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.12.10-09.42.27:498][228]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.10-09.42.27:498][228]LogContentValidation: Display: Starting to validate 47 assets
+[2024.12.10-09.42.27:498][228]LogContentValidation: Enabled validators:
+[2024.12.10-09.42.27:498][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-09.42.27:498][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-09.42.27:498][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-09.42.27:498][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-09.42.27:498][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-09.42.27:498][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-09.42.27:498][228]AssetCheck: /Game/ThirdPersonMap Validating asset
+[2024.12.10-09.42.39:000][242]LogDerivedDataCache: C:/Users/Learner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.10-09.42.39:863][312]LogContentBrowser: Attempting asset rename: Tomb_Raider_egypt -> Practice_map
+[2024.12.10-09.42.39:864][312]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-09.42.39:895][312]LogTexture: Display: Building textures: /Game/StarterContent/Custom_texture/sandstone_texture.sandstone_texture (BGRA8, 1250x764 x1x1x1) (Required Memory Estimate: 33.787315 MB), EncodeSpeed: Fast
+[2024.12.10-09.42.39:914][312]LogChaosDD: Creating Chaos Debug Draw Scene for world Tomb_Raider_egypt
+[2024.12.10-09.42.41:334][312]LogSlate: Window 'Message' being destroyed
+[2024.12.10-09.42.41:337][312]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Tomb_Raider_egypt
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.12.10-09.42.41:355][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.10-09.42.41:365][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.10-09.42.41:375][312]LogSavePackage: Moving output files for package: /Game/Practice_map
+[2024.12.10-09.42.41:375][312]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Practice_map6AE7150F4905E333F3B69FBDE94FC80A.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/Practice_map.umap'
+[2024.12.10-09.42.41:383][312]LogFileHelpers: Saving map 'Practice_map' took 0.027
+[2024.12.10-09.42.41:383][312]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tomb_Raider_egypt] ([1] browsable assets)...
+[2024.12.10-09.42.41:383][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tomb_Raider_egypt]
+[2024.12.10-09.42.41:383][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tomb_Raider_egypt" FILE="../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/Tomb_Raider_egypt.umap" SILENT=true
+[2024.12.10-09.42.41:384][312]LogSavePackage: Moving output files for package: /Game/Tomb_Raider_egypt
+[2024.12.10-09.42.41:384][312]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Tomb_Raider_egyptC81163894AADC28E39F48A8D1B29534B.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/Tomb_Raider_egypt.umap'
+[2024.12.10-09.42.41:385][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.518 ms (total: 377.392 ms)
+[2024.12.10-09.42.41:409][312]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.10-09.42.41:409][312]LogContentValidation: Enabled validators:
+[2024.12.10-09.42.41:409][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.10-09.42.41:409][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.10-09.42.41:409][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.10-09.42.41:409][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.10-09.42.41:409][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.10-09.42.41:409][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.10-09.42.41:409][312]AssetCheck: /Game/Practice_map Validating asset
+[2024.12.10-09.42.41:409][312]AssetCheck: /Game/Tomb_Raider_egypt Validating asset
+[2024.12.10-09.42.55:966][786]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.10-09.42.55:973][786]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.10-09.42.55:973][786]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.10-09.42.55:975][786]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.964 ms
+[2024.12.10-09.42.55:975][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.10-09.42.55:975][786]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2024.12.10-09.42.55:978][786]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.12.10-09.42.55:994][787]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ThirdPersonMap
+[2024.12.10-09.42.55:999][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003824s)
+[2024.12.10-09.42.55:999][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonMap.ThirdPersonMap to /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003883s)
+[2024.12.10-09.42.56:006][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.12.10-09.42.56:008][787]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.10-09.42.56:009][787]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.10-09.42.56:009][787]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.10-09.42.56:009][787]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.10-09.42.56:009][787]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.10-09.42.56:010][787]LogWorldPartition: Display: WorldPartition initialize took 1.121 ms (total: 255.475 ms)
+[2024.12.10-09.42.56:010][787]LogPlayLevel: PIE: World Init took: (0.002367s)
+[2024.12.10-09.42.56:011][787]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.10-09.42.56:011][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.10-09.42.56:011][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.10-09.42.56:011][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.10-09.42.56:011][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.10-09.42.56:011][787]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.10-09.42.56:011][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.10-09.42.56:011][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.10-09.42.56:011][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.10-09.42.56:011][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.10-09.42.56:011][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.10-09.42.56:011][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.10-09.42.56:013][787]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.10-09.42.56:031][787]LogAudioMixer: Display: Using Audio Hardware Device LG ULTRAGEAR (NVIDIA High Definition Audio)
+[2024.12.10-09.42.56:032][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.10-09.42.56:032][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.10-09.42.56:032][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.10-09.42.56:032][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.10-09.42.56:032][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.10-09.42.56:034][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.10-09.42.56:034][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.10-09.42.56:034][787]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.10-09.42.56:034][787]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.12.10-09.42.56:034][787]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.10-09.42.56:037][787]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.10-09.42.56:038][787]LogWorld: Bringing World /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.10-09.42.56
+[2024.12.10-09.42.56:038][787]LogWorld: Bringing up level for play took: 0.001392
+[2024.12.10-09.42.56:048][787]PIE: Server logged in
+[2024.12.10-09.42.56:048][787]PIE: Play in editor total start time 0.078 seconds.
+[2024.12.10-09.43.26:140][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-09.43.26:140][128]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ThirdPersonMap
+[2024.12.10-09.43.26:141][128]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-09.43.26:141][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-09.43.26:141][128]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.10-09.43.26:144][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.10-09.43.26:147][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-09.43.26:155][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-09.43.26:155][128]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.10-09.43.26:155][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.10-09.43.26:157][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.10-09.43.26:164][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.10-09.43.26:225][129]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.12.10-09.43.37:296][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.10-09.43.37:298][970]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonMap.ThirdPersonMap
+[2024.12.10-09.43.37:299][970]Cmd: MAP LOAD FILE="../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.10-09.43.37:315][970]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-09.43.37:315][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-09.43.37:315][970]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPersonMap.ThirdPersonMap
+[2024.12.10-09.43.37:328][970]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-09.43.37:329][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.10-09.43.37:331][970]LogWorld: UWorld::CleanupWorld for Practice_map, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-09.43.37:331][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-09.43.37:338][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.10-09.43.37:345][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.10-09.43.37:345][970]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-09.43.37:350][970]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.12.10-09.43.37:350][970]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.10-09.43.37:351][970]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.10-09.43.37:351][970]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.10-09.43.37:351][970]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.10-09.43.37:362][970]LogWorldPartition: Display: WorldPartition initialize took 11.406 ms (total: 266.881 ms)
+[2024.12.10-09.43.37:418][970]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.10-09.43.37:428][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.10-09.43.37:433][970]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.10-09.43.37:433][970]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.491ms to complete.
+[2024.12.10-09.43.48:956][480]LogSlate: Window 'Batch Renamer' being destroyed
+[2024.12.10-09.43.48:965][480]LogAutomationController: Ignoring very large delta of 4.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.10-09.43.53:805][860]Cmd: EDIT COPY
+[2024.12.10-09.44.06:173][855]Cmd: EDIT COPY
+[2024.12.10-09.44.09:226][ 34]Cmd: DELETE
+[2024.12.10-09.44.09:226][ 34]Cmd: ACTOR DELETE
+[2024.12.10-09.44.09:230][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.09:241][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.10-09.44.09:246][ 34]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.12.10-09.44.10:370][102]Cmd: DELETE
+[2024.12.10-09.44.10:370][102]Cmd: ACTOR DELETE
+[2024.12.10-09.44.10:372][102]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.10:380][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.10:382][102]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.12:102][210]Cmd: DELETE
+[2024.12.10-09.44.12:102][210]Cmd: ACTOR DELETE
+[2024.12.10-09.44.12:103][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.12:111][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.10-09.44.12:114][210]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.13:217][275]Cmd: DELETE
+[2024.12.10-09.44.13:217][275]Cmd: ACTOR DELETE
+[2024.12.10-09.44.13:219][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.13:227][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.10-09.44.13:229][275]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.12.10-09.44.14:754][370]Cmd: DELETE
+[2024.12.10-09.44.14:754][370]Cmd: ACTOR DELETE
+[2024.12.10-09.44.14:756][370]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.14:764][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.10-09.44.14:767][370]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.16:173][460]Cmd: DELETE
+[2024.12.10-09.44.16:173][460]Cmd: ACTOR DELETE
+[2024.12.10-09.44.16:175][460]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.16:183][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.16:186][460]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.16:962][508]Cmd: DELETE
+[2024.12.10-09.44.16:962][508]Cmd: ACTOR DELETE
+[2024.12.10-09.44.16:963][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.16:972][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.10-09.44.16:975][508]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.17:617][547]Cmd: DELETE
+[2024.12.10-09.44.17:617][547]Cmd: ACTOR DELETE
+[2024.12.10-09.44.17:619][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.17:627][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.10-09.44.17:630][547]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.18:576][603]Cmd: DELETE
+[2024.12.10-09.44.18:576][603]Cmd: ACTOR DELETE
+[2024.12.10-09.44.18:577][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.18:587][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.10-09.44.18:590][603]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.19:218][640]Cmd: DELETE
+[2024.12.10-09.44.19:218][640]Cmd: ACTOR DELETE
+[2024.12.10-09.44.19:220][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.19:227][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.10-09.44.19:231][640]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.20:153][694]Cmd: DELETE
+[2024.12.10-09.44.20:153][694]Cmd: ACTOR DELETE
+[2024.12.10-09.44.20:155][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.20:164][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.10-09.44.20:167][694]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.21:766][792]Cmd: DELETE
+[2024.12.10-09.44.21:766][792]Cmd: ACTOR DELETE
+[2024.12.10-09.44.21:768][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.21:775][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.10-09.44.21:779][792]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.22:471][831]Cmd: DELETE
+[2024.12.10-09.44.22:471][831]Cmd: ACTOR DELETE
+[2024.12.10-09.44.22:472][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.22:480][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.10-09.44.22:483][831]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.23:158][869]Cmd: DELETE
+[2024.12.10-09.44.23:158][869]Cmd: ACTOR DELETE
+[2024.12.10-09.44.23:160][869]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.23:168][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.23:170][869]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.24:440][946]Cmd: DELETE
+[2024.12.10-09.44.24:440][946]Cmd: ACTOR DELETE
+[2024.12.10-09.44.24:442][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.24:450][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.24:453][946]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.25:233][991]Cmd: DELETE
+[2024.12.10-09.44.25:233][991]Cmd: ACTOR DELETE
+[2024.12.10-09.44.25:234][991]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.25:243][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.10-09.44.25:245][991]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.26:173][ 46]Cmd: DELETE
+[2024.12.10-09.44.26:173][ 46]Cmd: ACTOR DELETE
+[2024.12.10-09.44.26:176][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.26:182][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.26:185][ 46]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.26:999][ 93]Cmd: DELETE
+[2024.12.10-09.44.26:999][ 93]Cmd: ACTOR DELETE
+[2024.12.10-09.44.27:001][ 93]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.27:009][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.12.10-09.44.27:012][ 93]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.27:838][142]Cmd: DELETE
+[2024.12.10-09.44.27:838][142]Cmd: ACTOR DELETE
+[2024.12.10-09.44.27:838][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.27:848][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.10-09.44.27:850][142]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.28:886][204]Cmd: DELETE
+[2024.12.10-09.44.28:886][204]Cmd: ACTOR DELETE
+[2024.12.10-09.44.28:887][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.28:896][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.28:898][204]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.36:500][767]Cmd: DELETE
+[2024.12.10-09.44.36:500][767]Cmd: ACTOR DELETE
+[2024.12.10-09.44.36:502][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.36:509][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.36:514][767]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.37:488][828]Cmd: DELETE
+[2024.12.10-09.44.37:488][828]Cmd: ACTOR DELETE
+[2024.12.10-09.44.37:490][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.37:499][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.10-09.44.37:501][828]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.38:033][860]Cmd: DELETE
+[2024.12.10-09.44.38:033][860]Cmd: ACTOR DELETE
+[2024.12.10-09.44.38:034][860]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.38:043][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.38:046][860]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.38:650][895]Cmd: DELETE
+[2024.12.10-09.44.38:650][895]Cmd: ACTOR DELETE
+[2024.12.10-09.44.38:652][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.38:659][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.10-09.44.38:662][895]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.12.10-09.44.39:228][928]Cmd: DELETE
+[2024.12.10-09.44.39:228][928]Cmd: ACTOR DELETE
+[2024.12.10-09.44.39:230][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.39:237][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.10-09.44.39:240][928]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.12.10-09.44.45:817][332]Cmd: DELETE
+[2024.12.10-09.44.45:817][332]Cmd: ACTOR DELETE
+[2024.12.10-09.44.45:819][332]LogEditorActor: Deleted Actor: TextRenderActor
+[2024.12.10-09.44.45:827][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.45:830][332]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.52:412][753]Cmd: DELETE
+[2024.12.10-09.44.52:412][753]Cmd: ACTOR DELETE
+[2024.12.10-09.44.52:415][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.52:424][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.52:427][753]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.44.53:321][806]Cmd: DELETE
+[2024.12.10-09.44.53:321][806]Cmd: ACTOR DELETE
+[2024.12.10-09.44.53:323][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.53:330][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.53:333][806]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.10-09.44.54:391][870]Cmd: DELETE
+[2024.12.10-09.44.54:391][870]Cmd: ACTOR DELETE
+[2024.12.10-09.44.54:394][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.44.54:402][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.12.10-09.44.54:405][870]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.10-09.45.44:593][ 36]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.10-09.45.55:745][  2]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Landscape_UAID_D85ED3AAA9CA7A3702_1459640047.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2024.12.10-09.45.55:760][  2]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 9c5c349877c2d8720b9ac582def389edc1a8bca5), compiling. Is special engine material.
+[2024.12.10-09.45.56:671][  2]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Landscape_UAID_D85ED3AAA9CA7A3702_1459640047.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2024.12.10-09.45.56:786][  2]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_0_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.45.56:796][  2]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_0_0_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.45.57:443][  2]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Landscape_UAID_D85ED3AAA9CA7A3702_1459640047.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.45.58:930][  2]LogAutomationController: Ignoring very large delta of 3.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.10-09.46.11:970][919]Cmd: DELETE
+[2024.12.10-09.46.11:970][919]Cmd: ACTOR DELETE
+[2024.12.10-09.46.11:977][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.10-09.46.11:999][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.10-09.46.12:002][919]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.12.10-09.46.17:184][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 331.874298
+[2024.12.10-09.46.17:329][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.10-09.46.17:329][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.000122, Update Interval: 359.945068
+[2024.12.10-09.52.20:311][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 695.000793
+[2024.12.10-09.52.21:312][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.10-09.52.21:312][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 695.668335, Update Interval: 349.601135
+[2024.12.10-09.53.37:696][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.10-09.53.37:706][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/A/2Z/79IGQMTSOFU2DESZGAUISG_Auto1
+[2024.12.10-09.53.37:706][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/79IGQMTSOFU2DESZGAUISG_Auto143775A0F4E404B645276A79F539E60BF.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/A/2Z/79IGQMTSOFU2DESZGAUISG_Auto1.uasset'
+[2024.12.10-09.53.37:720][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/0/63/UDZI0Z8GQR3AQZ1MVFT03U_Auto1
+[2024.12.10-09.53.37:720][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/UDZI0Z8GQR3AQZ1MVFT03U_Auto1AD3373C64F92A2C452159985F4195A70.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/0/63/UDZI0Z8GQR3AQZ1MVFT03U_Auto1.uasset'
+[2024.12.10-09.53.37:729][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/E/NM/HD6Z6YO2KIS46VMVHSI07V_Auto1
+[2024.12.10-09.53.37:729][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/HD6Z6YO2KIS46VMVHSI07V_Auto15BC706F847F0A47713F42DB5C9DD4BDA.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/E/NM/HD6Z6YO2KIS46VMVHSI07V_Auto1.uasset'
+[2024.12.10-09.53.37:738][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/C/X4/C6XW9O1WV8948STAODFP9S_Auto1
+[2024.12.10-09.53.37:738][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/C6XW9O1WV8948STAODFP9S_Auto1AA3139E748925C5B197FA38C04C6F349.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/C/X4/C6XW9O1WV8948STAODFP9S_Auto1.uasset'
+[2024.12.10-09.53.37:748][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/8/8Y/DU6FJFFFON531TOZ7E37YP_Auto1
+[2024.12.10-09.53.37:748][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/DU6FJFFFON531TOZ7E37YP_Auto10747846441973A94788CB29C2710413F.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/8/8Y/DU6FJFFFON531TOZ7E37YP_Auto1.uasset'
+[2024.12.10-09.53.37:757][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/D/GL/DQPXHDEYNOXPCOTKTGKSCD_Auto1
+[2024.12.10-09.53.37:757][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/DQPXHDEYNOXPCOTKTGKSCD_Auto1989AA2AD40EABA1F18AE73895633CE68.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/D/GL/DQPXHDEYNOXPCOTKTGKSCD_Auto1.uasset'
+[2024.12.10-09.53.37:767][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/5/M9/3OEFNCR40RYEFV60OG1UFS_Auto1
+[2024.12.10-09.53.37:767][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/3OEFNCR40RYEFV60OG1UFS_Auto13C0C9F80479EBE8EEE0F8898D44C5FA9.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/5/M9/3OEFNCR40RYEFV60OG1UFS_Auto1.uasset'
+[2024.12.10-09.53.37:771][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_2_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:772][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:777][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/5/8I/0DENCRCTX2YZE2C53KHZ0C_Auto1
+[2024.12.10-09.53.37:777][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/0DENCRCTX2YZE2C53KHZ0C_Auto1A4DD71B5462A24824A9BBD8B8D0F8DA1.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/5/8I/0DENCRCTX2YZE2C53KHZ0C_Auto1.uasset'
+[2024.12.10-09.53.37:780][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:780][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:788][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/7/N4/0QC44110SV71JBXM9DKTCJ_Auto1
+[2024.12.10-09.53.37:788][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/0QC44110SV71JBXM9DKTCJ_Auto13927E6E64F9E395E8BA8338EFAF48365.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/7/N4/0QC44110SV71JBXM9DKTCJ_Auto1.uasset'
+[2024.12.10-09.53.37:798][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/7/RC/98P9VYL3KH5JYXG2KR2AR4_Auto1
+[2024.12.10-09.53.37:798][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/98P9VYL3KH5JYXG2KR2AR4_Auto18BADB210408B16BD8D89AB91AAD61E66.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/7/RC/98P9VYL3KH5JYXG2KR2AR4_Auto1.uasset'
+[2024.12.10-09.53.37:806][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/D/1R/TXAP37AT0WY5ITA6CAI7O2_Auto1
+[2024.12.10-09.53.37:806][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/TXAP37AT0WY5ITA6CAI7O2_Auto12289DDD548509F20DDB5E5A5CAE7212F.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/D/1R/TXAP37AT0WY5ITA6CAI7O2_Auto1.uasset'
+[2024.12.10-09.53.37:809][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_2_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:811][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_2_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:811][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_2_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:812][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_2_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:817][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/9/5Y/99L9C4A0ZO29HNIB566MZH_Auto1
+[2024.12.10-09.53.37:817][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/99L9C4A0ZO29HNIB566MZH_Auto1215B24544FC25B2F0C43529A569814CE.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/9/5Y/99L9C4A0ZO29HNIB566MZH_Auto1.uasset'
+[2024.12.10-09.53.37:819][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:820][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:821][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:821][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_2_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:822][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:822][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:823][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:823][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_2_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:828][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/3/B7/ELBYFURGVND5GMYP8RNNQ0_Auto1
+[2024.12.10-09.53.37:828][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/ELBYFURGVND5GMYP8RNNQ0_Auto18C4E3606428D54E96AAE8498DB8D7347.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/3/B7/ELBYFURGVND5GMYP8RNNQ0_Auto1.uasset'
+[2024.12.10-09.53.37:838][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/1/D7/4KINT3DJZ92FQOT8TXX110_Auto1
+[2024.12.10-09.53.37:838][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/4KINT3DJZ92FQOT8TXX110_Auto1BB52E4E940B6469FC4DC2FA88196E6C8.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/1/D7/4KINT3DJZ92FQOT8TXX110_Auto1.uasset'
+[2024.12.10-09.53.37:847][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/E/7W/OGHMKF3SDWAB4WK1C4HTJG_Auto1
+[2024.12.10-09.53.37:847][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/OGHMKF3SDWAB4WK1C4HTJG_Auto1EC53458F4CF96C397B2CD58F5D7991C1.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/E/7W/OGHMKF3SDWAB4WK1C4HTJG_Auto1.uasset'
+[2024.12.10-09.53.37:857][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/D/26/QCY3AWACZ6T4UVQZNS0Z84_Auto1
+[2024.12.10-09.53.37:857][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/QCY3AWACZ6T4UVQZNS0Z84_Auto1BB9FA8C94C6544884FCD45AEAD586B92.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/D/26/QCY3AWACZ6T4UVQZNS0Z84_Auto1.uasset'
+[2024.12.10-09.53.37:860][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:861][250]LogTexture: Display: Building textures: /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9P3LGW7AYZWU9TJ324SGUW3NY_126_3_3_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2024.12.10-09.53.37:867][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPersonMap/A/A7/2NK1M8RZU7TKXWIMZHK761_Auto1
+[2024.12.10-09.53.37:867][250]LogSavePackage: Moving '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/2NK1M8RZU7TKXWIMZHK761_Auto16A96DED04441E8DF4E55E1B4E97A5885.tmp' to '../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Autosaves/Game/__ExternalActors__/ThirdPersonMap/A/A7/2NK1M8RZU7TKXWIMZHK761_Auto1.uasset'
+[2024.12.10-09.53.37:868][250]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonMap' took 0.190
+[2024.12.10-09.53.37:868][250]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.190
+[2024.12.10-09.58.15:677][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1050.367188
+[2024.12.10-09.58.16:677][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.10-09.58.16:677][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1051.033691, Update Interval: 349.077423
