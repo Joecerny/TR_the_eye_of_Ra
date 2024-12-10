@@ -1263,3 +1263,98 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.10-09.40.45:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/' took 0.01s
 [2024.12.10-09.40.45:854][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
 [2024.12.10-09.40.45:871][  0]LogPython: Using Python 3.11.8
+[2024.12.10-09.40.46:801][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2024.12.10-09.40.46:857][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.12.10-09.40.46:904][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2024.12.10-09.40.46:904][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2024.12.10-09.40.46:918][  0]LogEditorDataStorage: Initializing
+[2024.12.10-09.40.46:919][  0]LogEditorDataStorage: Initialized
+[2024.12.10-09.40.46:940][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.12.10-09.40.46:942][  0]SourceControl: Revision control is disabled
+[2024.12.10-09.40.46:942][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.038
+[2024.12.10-09.40.46:942][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.10-09.40.46:944][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.12.10-09.40.46:944][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-09.40.46:951][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.10-09.40.46:953][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.10-09.40.46:958][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.12.10-09.40.46:958][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2024.12.10-09.40.46:960][  0]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.10-09.40.46:960][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.10-09.40.46:960][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Untitled_1.Untitled_1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.10-09.40.46:991][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.12.10-09.40.46:995][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.12.10-09.40.46:996][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.12.10-09.40.46:997][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2024.12.10-09.40.46:997][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2024.12.10-09.40.46:997][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.12.10-09.40.46:999][  0]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2024.12.10-09.40.47:059][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.12.10-09.40.47:201][  0]LogWorldPartition: Display: WorldPartition initialize took 242.147 ms
+[2024.12.10-09.40.47:597][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.10-09.40.47:606][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.10-09.40.47:606][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.10-09.40.47:607][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.92ms to complete.
+[2024.12.10-09.40.47:612][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.709
+[2024.12.10-09.40.47:667][  0]LogAssetRegistry: Display: Asset registry cache written as 35.3 MiB to ../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Intermediate/CachedAssetRegistry_*.bin
+[2024.12.10-09.40.47:707][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.10-09.40.47:726][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.12.10-09.40.47:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-09.40.47:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-09.40.47:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-09.40.47:889][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.10-09.40.48:039][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:044][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:045][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:050][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:051][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:055][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:055][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:060][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:062][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:065][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:065][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:069][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:069][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:074][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:074][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:078][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:078][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:083][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:084][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.10-09.40.48:087][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.12.10-09.40.48:357][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.10-09.40.48:366][  0]LogSlate: Took 0.004697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.12.10-09.40.48:367][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.12.10-09.40.49:051][  0]LogStall: Startup...
+[2024.12.10-09.40.49:052][  0]LogStall: Startup complete.
+[2024.12.10-09.40.49:067][  0]LogLoad: (Engine Initialization) Total time: 15.16 seconds
+[2024.12.10-09.40.49:219][  0]LogAssetRegistry: AssetRegistryGather time 0.3030s: AssetDataDiscovery 0.0389s, AssetDataGather 0.2090s, StoreResults 0.0552s. Wall time 8.2560s.
+	NumCachedDirectories 0. NumUncachedDirectories 1534. NumCachedFiles 7210. NumUncachedFiles 293.
+	BackgroundTickInterruptions 0.
+[2024.12.10-09.40.49:232][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.12.10-09.40.49:232][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2024.12.10-09.40.49:234][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.12.10-09.40.49:234][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2024.12.10-09.40.49:270][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.12.10-09.40.49:312][  0]LogAutomationController: Ignoring very large delta of 16777373.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.10-09.40.49:312][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.10-09.40.49:314][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2024.12.10-09.40.49:339][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.12.10-09.40.49:340][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 26.288 ms
+[2024.12.10-09.40.49:504][  1]LogSourceControl: Uncontrolled asset enumeration finished in 0.271229 seconds (Found 7479 uncontrolled assets)
+[2024.12.10-09.40.49:632][  1]LogStreaming: Display: FlushAsyncLoading(417): 64 QueuedPackages, 0 AsyncPackages
+[2024.12.10-09.40.49:764][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 4.427087
+[2024.12.10-09.40.49:765][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2024.12.10-09.40.49:766][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4.453220
+[2024.12.10-09.40.50:812][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2024.12.10-09.40.51:474][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.830389
+[2024.12.10-09.40.51:476][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1660635649
+[2024.12.10-09.40.51:476][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.830389, Update Interval: 326.014587
+[2024.12.10-09.40.52:474][ 12]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 614...cd8 Access[Expires: 2024.12.10-11.40.44 Remaining: 7200.34] Refresh[Expires: 2025-06-07T09:52:25.208Z Remaining: 15466301.21] State: Valid
+[2024.12.10-09.40.52:808][ 13]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2024.12.10-09.40.53:808][ 16]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2024.12.10-09.40.53:808][ 16]LogFab: Display: User logged in
+[2024.12.10-09.40.53:808][ 16]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2024.12.10-09.40.54:476][ 18]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-9cob71ZOr0G1zukbQes-Ug-2lF40A1X8kardDkSdTDivw]
