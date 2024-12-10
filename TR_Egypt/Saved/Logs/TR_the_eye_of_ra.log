@@ -1083,3 +1083,183 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.10-09.40.41:291][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
 [2024.12.10-09.40.41:291][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 33 to allow recursive sync load to finish
 [2024.12.10-09.40.41:291][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2024.12.10-09.40.41:376][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: ef2c1bdea43b982a32867a707adf81b882f8d1dc), compiling. Is special engine material.
+[2024.12.10-09.40.41:452][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: bdfa0043de48c4a06c3453d9b87e586e831bfb73), compiling. 
+[2024.12.10-09.40.41:474][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: e9ac59dfc14104ab292be57a4667e216eca00e63), compiling. 
+[2024.12.10-09.40.42:320][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2024.12.10-09.40.43:251][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 3fd9df316e9f80d947f1eeeed7090c37c680ff08), compiling. 
+[2024.12.10-09.40.43:312][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.12.10-09.40.43:312][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2024.12.10-09.40.43:312][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.12.10-09.40.43:312][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2024.12.10-09.40.43:312][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.12.10-09.40.43:417][  0]LogConfig: Branch 'PIEPreviewSettings' had been unloaded. Reloading on-demand took 0.90ms
+[2024.12.10-09.40.43:435][  0]LogConfig: Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 0.90ms
+[2024.12.10-09.40.43:448][  0]LogConfig: Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 0.88ms
+[2024.12.10-09.40.43:451][  0]LogConfig: Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 0.90ms
+[2024.12.10-09.40.43:607][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.12.10-09.40.43:607][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.12.10-09.40.43:612][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.12.10-09.40.43:612][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.12.10-09.40.43:613][  0]LogLiveCoding: Display: First instance in process group "UE_TR_the_eye_of_ra_0x03046b7c", spawning console
+[2024.12.10-09.40.43:621][  0]LogLiveCoding: Display: Waiting for server
+[2024.12.10-09.40.43:636][  0]LogSlate: Border
+[2024.12.10-09.40.43:636][  0]LogSlate: BreadcrumbButton
+[2024.12.10-09.40.43:636][  0]LogSlate: Brushes.Title
+[2024.12.10-09.40.43:636][  0]LogSlate: Default
+[2024.12.10-09.40.43:636][  0]LogSlate: Icons.Save
+[2024.12.10-09.40.43:636][  0]LogSlate: Icons.Toolbar.Settings
+[2024.12.10-09.40.43:636][  0]LogSlate: ListView
+[2024.12.10-09.40.43:636][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.12.10-09.40.43:636][  0]LogSlate: SoftwareCursor_Grab
+[2024.12.10-09.40.43:636][  0]LogSlate: TableView.DarkRow
+[2024.12.10-09.40.43:636][  0]LogSlate: TableView.Row
+[2024.12.10-09.40.43:636][  0]LogSlate: TreeView
+[2024.12.10-09.40.43:718][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2024.12.10-09.40.43:720][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 1.608 ms
+[2024.12.10-09.40.43:730][  0]LogConfig: Branch 'Mass' had been unloaded. Reloading on-demand took 0.91ms
+[2024.12.10-09.40.43:746][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2024.12.10-09.40.43:746][  0]LogInit: XR: MultiViewport is Disabled
+[2024.12.10-09.40.43:747][  0]LogInit: XR: Mobile Multiview is Disabled
+[2024.12.10-09.40.43:747][  0]LogTurnkeySupport: Turnkey Device: Win64@TS4-03: (Name=TS4-03, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.26100.0, Flags="Device_InstallSoftwareValid")
+[2024.12.10-09.40.43:813][  0]LogConfig: Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 1.08ms
+[2024.12.10-09.40.44:007][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2024.12.10-09.40.44:007][  0]LogNNERuntimeORT: 0: NVIDIA GeForce GTX 1660 Ti (Compute, Graphics)
+[2024.12.10-09.40.44:007][  0]LogNNERuntimeORT: 1: Microsoft Basic Render Driver (Compute, Graphics)
+[2024.12.10-09.40.44:007][  0]LogNNERuntimeORT: No NPU adapter found!
+[2024.12.10-09.40.44:148][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2024.12.10-09.40.44:148][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.12.10-09.40.44:169][  0]LogMetaSound: MetaSound Engine Initialized
+[2024.12.10-09.40.44:360][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 91A66907F0EE4BE5800000000000EB00 | Instance: 6D21701F40FC30F867D5F99B529A80C2 (TS4-03-16656).
+[2024.12.10-09.40.44:390][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.12.10-09.40.44:525][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.12.10-09.40.44:529][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2024.12.10-09.40.44:529][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.12.10-09.40.44:529][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64521'.
+[2024.12.10-09.40.44:531][  0]LogUdpMessaging: Display: Added local interface '10.23.0.235' to multicast group '230.0.0.1:6666'
+[2024.12.10-09.40.44:632][  0]SourceControl: Revision control is disabled
+[2024.12.10-09.40.44:640][  0]SourceControl: Revision control is disabled
+[2024.12.10-09.40.44:859][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2024.12.10-09.40.44:872][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.12.10-09.40.44:879][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.10-09.40.44:879][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.10-09.40.44:930][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2024.12.10-09.40.44:931][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2024.12.10-09.40.44:931][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2024.12.10-09.40.44:931][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2024.12.10-09.40.44:932][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2024.12.10-09.40.44:932][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2024.12.10-09.40.44:933][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2024.12.10-09.40.44:933][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2024.12.10-09.40.44:933][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2024.12.10-09.40.44:934][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2024.12.10-09.40.44:934][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2024.12.10-09.40.44:935][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2024.12.10-09.40.44:935][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2024.12.10-09.40.44:936][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2024.12.10-09.40.44:936][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2024.12.10-09.40.44:936][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2024.12.10-09.40.44:938][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2024.12.10-09.40.44:938][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2024.12.10-09.40.44:938][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2024.12.10-09.40.44:939][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2024.12.10-09.40.44:939][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2024.12.10-09.40.44:940][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2024.12.10-09.40.44:940][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2024.12.10-09.40.44:941][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2024.12.10-09.40.44:941][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2024.12.10-09.40.44:941][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2024.12.10-09.40.44:942][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2024.12.10-09.40.44:942][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2024.12.10-09.40.44:943][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2024.12.10-09.40.44:943][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2024.12.10-09.40.44:943][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2024.12.10-09.40.44:944][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2024.12.10-09.40.44:944][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2024.12.10-09.40.44:945][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2024.12.10-09.40.44:949][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2024.12.10-09.40.45:082][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 1.31ms
+[2024.12.10-09.40.45:091][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 0.86ms
+[2024.12.10-09.40.45:193][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2024.12.10-09.40.45:193][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2024.12.10-09.40.45:201][  0]LogCollectionManager: Loaded 0 collections in 0.001553 seconds
+[2024.12.10-09.40.45:203][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/Collections/' took 0.00s
+[2024.12.10-09.40.45:205][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/Developers/Learner/Collections/' took 0.00s
+[2024.12.10-09.40.45:206][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/Collections/' took 0.00s
+[2024.12.10-09.40.45:267][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2024.12.10-09.40.45:267][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2024.12.10-09.40.45:268][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2024.12.10-09.40.45:268][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2024.12.10-09.40.45:268][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2024.12.10-09.40.45:268][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2024.12.10-09.40.45:290][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2024.12.10-09.40.45:290][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2024.12.10-09.40.45:305][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.16.4-36651368 booting at 2024-12-10T09:40:45.305Z using C
+[2024.12.10-09.40.45:305][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.26100.1591.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=TR_the_eye_of_ra, ProductVersion=++UE5+Release-5.5-CL-37670630, IsServer=false, Flags=DisableOverlay]
+[2024.12.10-09.40.45:306][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2024.12.10-09.40.45:306][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2024.12.10-09.40.45:310][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2024.12.10-09.40.45:311][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2024.12.10-09.40.45:311][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2024.12.10-09.40.45:311][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000053
+[2024.12.10-09.40.45:311][  0]LogFab: Display: Logging in using persist
+[2024.12.10-09.40.45:346][  0]LogUObjectArray: 43598 objects as part of root set at end of initial load.
+[2024.12.10-09.40.45:346][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.12.10-09.40.45:358][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36292 public script object entries (984.16 KB)
+[2024.12.10-09.40.45:358][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2024.12.10-09.40.45:424][  0]LogClass: Error: BoolProperty FFabAssetMetadata::IsQuixel is not initialized properly. Module:Fab File:Private/FabBrowserApi.h
+[2024.12.10-09.40.45:424][  0]LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2024.12.10-09.40.45:460][  0]LogAutomationTest: Error: LogClass: BoolProperty FFabAssetMetadata::IsQuixel is not initialized properly. Module:Fab File:Private/FabBrowserApi.h
+[2024.12.10-09.40.45:460][  0]LogEngine: Initializing Engine...
+[2024.12.10-09.40.45:464][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2024.12.10-09.40.45:464][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.12.10-09.40.45:536][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2024.12.10-09.40.45:550][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2024.12.10-09.40.45:559][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.12.10-09.40.45:559][  0]LogInit: Texture streaming: Enabled
+[2024.12.10-09.40.45:566][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.0-37670630+++UE5+Release-5.5
+[2024.12.10-09.40.45:569][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.12.10-09.40.45:576][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.12.10-09.40.45:576][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.12.10-09.40.45:576][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.12.10-09.40.45:576][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.12.10-09.40.45:577][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.10-09.40.45:577][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.10-09.40.45:577][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.10-09.40.45:577][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.10-09.40.45:577][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.10-09.40.45:577][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.10-09.40.45:577][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.10-09.40.45:577][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.10-09.40.45:577][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.10-09.40.45:577][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.10-09.40.45:577][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.10-09.40.45:580][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.10-09.40.45:616][  0]LogAudioMixer: Display: Using Audio Hardware Device LG ULTRAGEAR (NVIDIA High Definition Audio)
+[2024.12.10-09.40.45:617][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.10-09.40.45:618][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.10-09.40.45:618][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.10-09.40.45:618][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.12.10-09.40.45:618][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.10-09.40.45:620][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.10-09.40.45:620][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.12.10-09.40.45:620][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.12.10-09.40.45:620][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.12.10-09.40.45:620][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.12.10-09.40.45:625][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.12.10-09.40.45:627][  0]LogInit: Undo buffer set to 256 MB
+[2024.12.10-09.40.45:627][  0]LogInit: Transaction tracking system initialized
+[2024.12.10-09.40.45:638][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Saved/SourceControl/UncontrolledChangelists.json
+[2024.12.10-09.40.45:686][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 0.97ms
+[2024.12.10-09.40.45:689][  0]LocalizationService: Localization service is disabled
+[2024.12.10-09.40.45:700][  0]LogTimingProfiler: Initialize
+[2024.12.10-09.40.45:701][  0]LogTimingProfiler: OnSessionChanged
+[2024.12.10-09.40.45:701][  0]LoadingProfiler: Initialize
+[2024.12.10-09.40.45:701][  0]LoadingProfiler: OnSessionChanged
+[2024.12.10-09.40.45:701][  0]LogNetworkingProfiler: Initialize
+[2024.12.10-09.40.45:701][  0]LogNetworkingProfiler: OnSessionChanged
+[2024.12.10-09.40.45:701][  0]LogMemoryProfiler: Initialize
+[2024.12.10-09.40.45:701][  0]LogMemoryProfiler: OnSessionChanged
+[2024.12.10-09.40.45:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Learner/Documents/Unreal Projects/TR_the_eye_of_Ra/TR_Egypt/Content/' took 0.01s
+[2024.12.10-09.40.45:854][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
+[2024.12.10-09.40.45:871][  0]LogPython: Using Python 3.11.8
